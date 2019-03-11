@@ -1,0 +1,85 @@
+
+.ui.progress{
+	margin-bottom: 0 !important;
+}
+.fluid.content{
+	width: 100%;
+}
+.divided.column{
+	border-left: 1px solid #eee;
+}
+.ui.list .users.list{
+	padding: 0 !important;
+	padding-top: .2em !important;
+}
+.ui.horizontal.users.list > .item{
+	margin-left: .5em !important;
+}
+.stats.list{
+	width: 100%; text-align: center;
+}
+.stats.list .item{
+	text-align: left;
+	padding: .5em 1em !important;
+	margin: 0 1em 1em !important;
+}
+.ui.horizontal.stats.list:not(.celled) > .item:first-child{
+	padding: .5em 1em !important;
+}
+.stats.list .item .content{
+	color: #000;
+}
+.stats.list .item:hover{
+	background-color: #fafafa;
+	border-radius: 2px;
+}
+
+.tasks.cards .card{
+	width: calc(20% - 14px);
+}
+.tasks.cards .card{
+	width: calc(20% - 14px);
+}
+.tasks.cards .header{
+	font-size: 1em !important;
+}
+.tasks.cards{
+	flex-wrap: nowrap;
+}
+
+.tns-controls [disabled] { 
+	color: #999999;
+	background: #B3B3B3; 
+	cursor: not-allowed !important;
+}
+.tns-nav {
+	text-align: center;
+	margin: 10px 0;
+}
+.tns-nav > [aria-controls] {
+	width: 9px;
+	height: 9px;
+	padding: 0;
+	margin: 0 5px;
+	border-radius: 50%;
+	background: #ddd;
+	border: 0;
+}
+.tns-nav > [aria-selected="true"] { background: #999; }
+.controls { text-align: center; margin: 0}
+.controls li {
+  display: block;
+  position: absolute;
+  top: 50%;
+  height: 140px;
+  line-height: 140px;
+  margin-top: -42px;
+  padding: 0 15px;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+.controls li img { display: inline-block; vertical-align: middle; opacity: 0;}
+.column:hover .controls li img{ opacity: 1 }
+.controls .prev { left: 0; }
+.controls .next { right: 0; }
+.controls li:hover { background: #f2f2f2; }

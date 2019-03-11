@@ -1,0 +1,81 @@
+{
+"ref_golongan": [
+{
+	"id": "1",
+	"nama": "II\/a",
+	"pangkat": "Pengatur Muda",
+	"jabatan": "-\r"
+}
+, {
+	"id": "2",
+	"nama": "II\/b",
+	"pangkat": "Pengatur Muda Tk.I",
+	"jabatan": "-\r"
+}
+, {
+	"id": "3",
+	"nama": "II\/c",
+	"pangkat": "Pengatur",
+	"jabatan": "-\r"
+}
+, {
+	"id": "4",
+	"nama": "II\/d",
+	"pangkat": "Pengatur Tk.I",
+	"jabatan": "-\r"
+}
+, {
+	"id": "5",
+	"nama": "III\/a",
+	"pangkat": "Penata Muda",
+	"jabatan": "Guru Pertama\r"
+}
+, {
+	"id": "6",
+	"nama": "III\/b",
+	"pangkat": "Penata Muda Tk.I",
+	"jabatan": "Guru Pertama\r"
+}
+, {
+	"id": "7",
+	"nama": "III\/c",
+	"pangkat": "Penata",
+	"jabatan": "Guru Muda\r"
+}
+, {
+	"id": "8",
+	"nama": "III\/d",
+	"pangkat": "Penata Tk.I",
+	"jabatan": "Guru Muda\r"
+}
+, {
+	"id": "9",
+	"nama": "IV\/a",
+	"pangkat": "Pembina",
+	"jabatan": "Guru Madya\r"
+}
+, {
+	"id": "10",
+	"nama": "IV\/b",
+	"pangkat": "Pembina Tk.I",
+	"jabatan": "Guru Madya\r"
+}
+, {
+	"id": "11",
+	"nama": "IV\/c",
+	"pangkat": "Pembina Utama Muda",
+	"jabatan": "Guru Madya\r"
+}
+, {
+	"id": "12",
+	"nama": "IV\/d",
+	"pangkat": "Pembina Utama Madya",
+	"jabatan": "Guru Utama\r"
+}
+, {
+	"id": "13",
+	"nama": "IV\/e",
+	"pangkat": "Pembina Utama",
+	"jabatan": "Guru Utama"
+}
+]}

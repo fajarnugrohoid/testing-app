@@ -1,0 +1,58 @@
+{
+"ref_subunsur": [
+{
+	"id": "1",
+	"nama": "Mengikuti pendidikan dan mernperoleh gelar\/ijazah\/akta",
+	"unsur_id": "1"
+}
+, {
+	"id": "2",
+	"nama": "Mengikuti pelatihan prajabatan",
+	"unsur_id": "1"
+}
+, {
+	"id": "3",
+	"nama": "Melaksanakan proses pembelajaran",
+	"unsur_id": "2"
+}
+, {
+	"id": "4",
+	"nama": "Melaksanakan proses bimbingan",
+	"unsur_id": "2"
+}
+, {
+	"id": "5",
+	"nama": "Melaksanakan tugas lain yang relevan dengan fungsi sekolah \/ madrasah.",
+	"unsur_id": "2"
+}
+, {
+	"id": "6",
+	"nama": "Pengembangan diri",
+	"unsur_id": "3"
+}
+, {
+	"id": "7",
+	"nama": "Publikasi ilmiah",
+	"unsur_id": "3"
+}
+, {
+	"id": "8",
+	"nama": "Karya inovatif",
+	"unsur_id": "3"
+}
+, {
+	"id": "9",
+	"nama": "Memperoleh gelar\/ijazah yang tidak sesuai dengan bidang yang diampunya",
+	"unsur_id": "4"
+}
+, {
+	"id": "10",
+	"nama": "Melaksanakan kegiatan yang mendukung tugas guru",
+	"unsur_id": "4"
+}
+, {
+	"id": "11",
+	"nama": "Perolehan penghargaan\/tanda jasa",
+	"unsur_id": "4"
+}
+]}

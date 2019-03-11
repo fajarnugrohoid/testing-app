@@ -1,0 +1,549 @@
+{
+"ref_ak": [
+{
+	"id": "1",
+	"kode": "01",
+	"nama": "Doktor (S-3)",
+	"nilai": "200",
+	"kategori_id": "1"
+}
+, {
+	"id": "2",
+	"kode": "02",
+	"nama": "Magister (S-2)",
+	"nilai": "150",
+	"kategori_id": "1"
+}
+, {
+	"id": "3",
+	"kode": "03",
+	"nama": "Sarjana (S-1) \/ Diploma IV",
+	"nilai": "100",
+	"kategori_id": "1"
+}
+, {
+	"id": "4",
+	"kode": "04",
+	"nama": "Pelatihan prajabatan fungsional bagi guru calon pegawai negeri sipil i program induksi",
+	"nilai": "3",
+	"kategori_id": "2"
+}
+, {
+	"id": "5",
+	"kode": "05",
+	"nama": "Merencanakan dan melaksanakan pembelajaran, mengevaluasi dan menilai hasil pembelajaran, menganalisis hasil pembelajaran, melaksanakan tindak lanjut hasil",
+	"nilai": "Paket",
+	"kategori_id": "3"
+}
+, {
+	"id": "6",
+	"kode": "06",
+	"nama": "Merencanakan dan melaksanakan pembimbingan, mengevaluasi dan menilai hasil pembimbingan, menganalisis hasil pembimbingan, melaksanakan tindak lanjut hasil pembimbingan",
+	"nilai": "Paket",
+	"kategori_id": "4"
+}
+, {
+	"id": "7",
+	"kode": "07",
+	"nama": "Menjadi kepala sekolah\/madrasah per tahun",
+	"nilai": "Paket",
+	"kategori_id": "5"
+}
+, {
+	"id": "8",
+	"kode": "08",
+	"nama": "Menjadi wakil kepala sekolah\/madrasah per tahun",
+	"nilai": "Paket",
+	"kategori_id": "5"
+}
+, {
+	"id": "9",
+	"kode": "09",
+	"nama": "Menjadi ketua program keahlian\/program studi atau yang sejenisnya",
+	"nilai": "Paket",
+	"kategori_id": "5"
+}
+, {
+	"id": "10",
+	"kode": "10",
+	"nama": "Menjadi kepala perpustakaan",
+	"nilai": "Paket",
+	"kategori_id": "5"
+}
+, {
+	"id": "11",
+	"kode": "11",
+	"nama": "Menjadi kepala laboratorium, bengkel, unit produksi atau yang sejenisnya",
+	"nilai": "Paket",
+	"kategori_id": "5"
+}
+, {
+	"id": "12",
+	"kode": "12",
+	"nama": "Menjadi pembimbing khusus pada satuan pendidikan yang menyelenggarakan pendidikan inklusi, pendidikan terpadu atau yang sejenisnya.",
+	"nilai": "Paket",
+	"kategori_id": "5"
+}
+, {
+	"id": "13",
+	"kode": "13",
+	"nama": "Menjadi wali kelas",
+	"nilai": "Paket",
+	"kategori_id": "5"
+}
+, {
+	"id": "14",
+	"kode": "14",
+	"nama": "Menyusun kurikulum pada satuan pendidikannya",
+	"nilai": "Paket",
+	"kategori_id": "5"
+}
+, {
+	"id": "15",
+	"kode": "15",
+	"nama": "Menjadi pengawas penilaian dan evaluasi terhadap proses dan hasil belajar.",
+	"nilai": "Paket",
+	"kategori_id": "5"
+}
+, {
+	"id": "16",
+	"kode": "15",
+	"nama": "Membimbing guru pemula dalam program induksi",
+	"nilai": "Paket",
+	"kategori_id": "5"
+}
+, {
+	"id": "17",
+	"kode": "16",
+	"nama": "Membimbing siswa dalam kegiatan ekstrakurikuler",
+	"nilai": "Paket",
+	"kategori_id": "5"
+}
+, {
+	"id": "18",
+	"kode": "17",
+	"nama": "Menjadi pembimbing pada penyusunan publikasi ilmiah dan karya inovatif",
+	"nilai": "Paket",
+	"kategori_id": "5"
+}
+, {
+	"id": "19",
+	"kode": "18",
+	"nama": "Melaksanakan pembimbingan pada kelas yang menjadi tanggungjawabnya (khusus guru kelas)",
+	"nilai": "Paket",
+	"kategori_id": "5"
+}
+, {
+	"id": "20",
+	"kode": "19",
+	"nama": "Lamanya lebih dari 960 jam",
+	"nilai": "15",
+	"kategori_id": "6"
+}
+, {
+	"id": "21",
+	"kode": "20",
+	"nama": "Lamanya antara 641 s.d. 960 jam",
+	"nilai": "9",
+	"kategori_id": "6"
+}
+, {
+	"id": "22",
+	"kode": "21",
+	"nama": "Lamanya antara 481 s.d. 640 jam",
+	"nilai": "6",
+	"kategori_id": "6"
+}
+, {
+	"id": "23",
+	"kode": "22",
+	"nama": "Lamanya antara 181 s.d. 480 jam",
+	"nilai": "3",
+	"kategori_id": "6"
+}
+, {
+	"id": "24",
+	"kode": "23",
+	"nama": "Lamanya antara 81 s.d. 180 jam",
+	"nilai": "2",
+	"kategori_id": "6"
+}
+, {
+	"id": "25",
+	"kode": "24",
+	"nama": "Lamanya antara 30 s.d. 80 jam",
+	"nilai": "1",
+	"kategori_id": "6"
+}
+, {
+	"id": "26",
+	"kode": "25",
+	"nama": "Lokakarya atau kegiatan bersama (seperti kelompok kerja guru) untuk penyusunan perangkat kurikulum dan atau pembelajaran",
+	"nilai": "0.15",
+	"kategori_id": "7"
+}
+, {
+	"id": "27",
+	"kode": "26",
+	"nama": "Keikutsertaan pada kegiatan ilmiah (seminar, koloqium dan diskusi panel) - menjadi pembahas pada kegiatan ilmiah",
+	"nilai": "0.2",
+	"kategori_id": "7"
+}
+, {
+	"id": "28",
+	"kode": "27",
+	"nama": "Keikutsertaan pada kegiatan ilmiah (seminar, koloqium dan diskusi panel) - menjadi peserta pada kegiatan ilmiah",
+	"nilai": "0.1",
+	"kategori_id": "7"
+}
+, {
+	"id": "29",
+	"kode": "28",
+	"nama": "Kegiatan kolektif lain yang sesuai dengan tugas dan kewajiban guru",
+	"nilai": "0.1",
+	"kategori_id": "7"
+}
+, {
+	"id": "30",
+	"kode": "29",
+	"nama": "Pemrasaran\/narasumber pada seminar atau lokakarya.",
+	"nilai": "0.2",
+	"kategori_id": "8"
+}
+, {
+	"id": "31",
+	"kode": "30",
+	"nama": "Pemrasaran\/narasumber pada koloqium atau diskusi ilmiah.",
+	"nilai": "0.2",
+	"kategori_id": "8"
+}
+, {
+	"id": "32",
+	"kode": "31",
+	"nama": "Berupa buku yang diterbitkan ber- isbn diedarkan secara nasional atau ada pengakuan dari bsnp.",
+	"nilai": "4",
+	"kategori_id": "9"
+}
+, {
+	"id": "33",
+	"kode": "32",
+	"nama": "Berupa tulisan (artikel ilmiah) dimuat di jurnal ilmiah tingkat nasional yang terakreditasi.",
+	"nilai": "3",
+	"kategori_id": "9"
+}
+, {
+	"id": "34",
+	"kode": "33",
+	"nama": "Berupa tulisan (artikel ilmiah) dimuat di jurnal ilmiah tingkat provinsi.",
+	"nilai": "2",
+	"kategori_id": "9"
+}
+, {
+	"id": "35",
+	"kode": "34",
+	"nama": "Berupa tulisan (artikel ilmiah) dimuat di jurnal ilmiah tingkat kabupaten\/kota.",
+	"nilai": "1",
+	"kategori_id": "9"
+}
+, {
+	"id": "36",
+	"kode": "35",
+	"nama": "Membuat karya tulis berupa laporan hasil penelitian pada bidang pendidikan di sekolahnya, diseminarkan disekolahnya, dan disimpan diperpustakaan.",
+	"nilai": "4",
+	"kategori_id": "9"
+}
+, {
+	"id": "37",
+	"kode": "36",
+	"nama": "Tinjauan ilmiah dalam bidang pendidikan formal dan pembelajaran pada satuan pendidikan.",
+	"nilai": "2",
+	"kategori_id": "10"
+}
+, {
+	"id": "38",
+	"kode": "37",
+	"nama": "Artikel ilmiah populer di bidang pendidikan formal dan pembela-jaran pada satuan pendidikan dimuat di media massa tingkat nasional.",
+	"nilai": "2",
+	"kategori_id": "11"
+}
+, {
+	"id": "39",
+	"kode": "38",
+	"nama": "Artikel ilmiah populer di bidang pendidikan formal dan pembelajaran pada satuan pendidikan dimuat di media massa tingkat provinsi.",
+	"nilai": "1.5",
+	"kategori_id": "11"
+}
+, {
+	"id": "40",
+	"kode": "39",
+	"nama": "Artikel ilmiah dalam bidang pendidikan formal dan pembelajaran pada satuan pendidikan di muat di jurnal tingkat nasional terakreditasi",
+	"nilai": "2",
+	"kategori_id": "12"
+}
+, {
+	"id": "41",
+	"kode": "40",
+	"nama": "Artikel ilmiah dalam bidang pendidikan formal dan pembelajaran pada satuan pendidikan di muat di jurnal tingkat nasional tidak terakreditasi \/tingkat provinsi.",
+	"nilai": "1.5",
+	"kategori_id": "12"
+}
+, {
+	"id": "42",
+	"kode": "41",
+	"nama": "Artikel ilmiah dalam bidang pendidikan formal dan pembelajaran pada satuan pendidikan di muat di jurnal tingkat lokal (kabupaten\/ kota\/ sekolah\/madrasah).",
+	"nilai": "1",
+	"kategori_id": "12"
+}
+, {
+	"id": "43",
+	"kode": "42",
+	"nama": "Buku pelajaran yang lolos penilaian oleh bsnp.",
+	"nilai": "6",
+	"kategori_id": "13"
+}
+, {
+	"id": "44",
+	"kode": "43",
+	"nama": "Buku pelajaran yang dicetak oleh penerbit dan ber- isbn.",
+	"nilai": "3",
+	"kategori_id": "13"
+}
+, {
+	"id": "45",
+	"kode": "44",
+	"nama": "Buku pelajaran yang dicetak oleh penerbit tetapi belum ber-isbn.",
+	"nilai": "1",
+	"kategori_id": "13"
+}
+, {
+	"id": "46",
+	"kode": "45",
+	"nama": "Modul dan diktat yang digunakan di tingkat provinsi.",
+	"nilai": "1.5",
+	"kategori_id": "14"
+}
+, {
+	"id": "47",
+	"kode": "46",
+	"nama": "Modul dan diktat yang digunakan di tingkat kota \/ kabupaten.",
+	"nilai": "1",
+	"kategori_id": "14"
+}
+, {
+	"id": "48",
+	"kode": "47",
+	"nama": "Modul dan diktat yang digunakan di tingkat sekolah\/madrasah.",
+	"nilai": "0.5",
+	"kategori_id": "14"
+}
+, {
+	"id": "49",
+	"kode": "48",
+	"nama": "Buku dalam bidang pendidikan yang dicetak oleh penerbit dan ber-isbn",
+	"nilai": "3",
+	"kategori_id": "15"
+}
+, {
+	"id": "50",
+	"kode": "49",
+	"nama": "Buku dalam bidang pendidikan yang dicetak oleh penerbit tetapi belum ber isbn.",
+	"nilai": "1.5",
+	"kategori_id": "15"
+}
+, {
+	"id": "51",
+	"kode": "50",
+	"nama": "Karya hasil terjemahan",
+	"nilai": "1",
+	"kategori_id": "16"
+}
+, {
+	"id": "52",
+	"kode": "51",
+	"nama": "Buku pedoman guru",
+	"nilai": "1.5",
+	"kategori_id": "17"
+}
+, {
+	"id": "53",
+	"kode": "52",
+	"nama": "Kategori kompleks",
+	"nilai": "4",
+	"kategori_id": "18"
+}
+, {
+	"id": "54",
+	"kode": "53",
+	"nama": "Kategori sederhana",
+	"nilai": "2",
+	"kategori_id": "18"
+}
+, {
+	"id": "55",
+	"kode": "54",
+	"nama": "Kategori kompleks",
+	"nilai": "4",
+	"kategori_id": "19"
+}
+, {
+	"id": "56",
+	"kode": "55",
+	"nama": "Kategori sederhana",
+	"nilai": "2",
+	"kategori_id": "19"
+}
+, {
+	"id": "57",
+	"kode": "58",
+	"nama": "Kategori kompleks",
+	"nilai": "4",
+	"kategori_id": "20"
+}
+, {
+	"id": "58",
+	"kode": "59",
+	"nama": "Kategori sederhana",
+	"nilai": "2",
+	"kategori_id": "20"
+}
+, {
+	"id": "59",
+	"kode": "60",
+	"nama": "Kategori kompleks",
+	"nilai": "4",
+	"kategori_id": "21"
+}
+, {
+	"id": "60",
+	"kode": "61",
+	"nama": "Kategori sederhana",
+	"nilai": "2",
+	"kategori_id": "21"
+}
+, {
+	"id": "61",
+	"kode": "62",
+	"nama": "Tingkat nasional",
+	"nilai": "1",
+	"kategori_id": "22"
+}
+, {
+	"id": "62",
+	"kode": "63",
+	"nama": "Tingkat provinsi",
+	"nilai": "1",
+	"kategori_id": "22"
+}
+, {
+	"id": "63",
+	"kode": "64",
+	"nama": "Doktor (s-3)",
+	"nilai": "15",
+	"kategori_id": "23"
+}
+, {
+	"id": "64",
+	"kode": "65",
+	"nama": "Magister (s-2)",
+	"nilai": "10",
+	"kategori_id": "23"
+}
+, {
+	"id": "65",
+	"kode": "66",
+	"nama": "Sarjana (s-1) 1diploma iv",
+	"nilai": "5",
+	"kategori_id": "23"
+}
+, {
+	"id": "66",
+	"kode": "67",
+	"nama": "Membimbing siswa dalam praktik kerja nyata \/ praktik industri \/ ekstrakurikuler dan yang sejenisnya",
+	"nilai": "0.17",
+	"kategori_id": "24"
+}
+, {
+	"id": "67",
+	"kode": "68",
+	"nama": "Sebagai pengawas ujian penilaian dan evaluasi terhadap proses dan hasil belajar tingkat sekolah",
+	"nilai": "0.08",
+	"kategori_id": "24"
+}
+, {
+	"id": "68",
+	"kode": "69",
+	"nama": "Sebagai pengawas ujian penilaian dan evaluasi terhadap proses dan hasil belajar tingkat nasional",
+	"nilai": "0.08",
+	"kategori_id": "24"
+}
+, {
+	"id": "69",
+	"kode": "70",
+	"nama": "Menjadi anggota organisasi profesi, sebagai pengurus aktif",
+	"nilai": "1",
+	"kategori_id": "24"
+}
+, {
+	"id": "70",
+	"kode": "71",
+	"nama": "Menjadi anggota organisasi profesi, sebagai anggota aktif",
+	"nilai": "0.75",
+	"kategori_id": "24"
+}
+, {
+	"id": "71",
+	"kode": "72",
+	"nama": "Menjadi anggota kegiatan kepramukaan, sebagai: pengurus aktif",
+	"nilai": "1",
+	"kategori_id": "24"
+}
+, {
+	"id": "72",
+	"kode": "73",
+	"nama": "Menjadi anggota kegiatan kepramukaan, sebagai: anggota aktif",
+	"nilai": "0.75",
+	"kategori_id": "24"
+}
+, {
+	"id": "73",
+	"kode": "74",
+	"nama": "Menjadi tim penilai angka kredit",
+	"nilai": "0.04",
+	"kategori_id": "24"
+}
+, {
+	"id": "74",
+	"kode": "75",
+	"nama": "Menjadi tutor\/pelatih\/instruktur",
+	"nilai": "0.04",
+	"kategori_id": "24"
+}
+, {
+	"id": "75",
+	"kode": "76",
+	"nama": "Memperoleh penghargaan\/tanda jasa satya lancana karya satya 30 (tiga puluh) tahun",
+	"nilai": "3",
+	"kategori_id": "25"
+}
+, {
+	"id": "76",
+	"kode": "77",
+	"nama": "Memperoleh penghargaan\/tanda jasa satya lancana karya satya 20 (dua puluh) tahun",
+	"nilai": "2",
+	"kategori_id": "25"
+}
+, {
+	"id": "77",
+	"kode": "78",
+	"nama": "Memperoleh penghargaan\/tanda jasa satya lancana karya satya 10 (sepuluh) tahun",
+	"nilai": "1",
+	"kategori_id": "25"
+}
+, {
+	"id": "78",
+	"kode": "79",
+	"nama": "Memperoleh penghargaan\/tanda jasa",
+	"nilai": "1",
+	"kategori_id": "25"
+}
+]}

@@ -1,0 +1,128 @@
+{
+"ref_kategori": [
+{
+	"id": "1",
+	"nama": "Mengikuti pendidikan dan mernperoleh gelar\/ijazah\/akta",
+	"sub_unsur_id": "1"
+}
+, {
+	"id": "2",
+	"nama": "Mengikuti pelatihan prajabatan",
+	"sub_unsur_id": "2"
+}
+, {
+	"id": "3",
+	"nama": "Melaksanakan proses pembelajaran",
+	"sub_unsur_id": "3"
+}
+, {
+	"id": "4",
+	"nama": "Melaksanakan proses bimbingan",
+	"sub_unsur_id": "4"
+}
+, {
+	"id": "5",
+	"nama": "Melaksanakan tugas lain yang relevan dengan fungsi sekolah \/ madrasah.",
+	"sub_unsur_id": "5"
+}
+, {
+	"id": "6",
+	"nama": "Diklat fungsional",
+	"sub_unsur_id": "6"
+}
+, {
+	"id": "7",
+	"nama": "Kegiatan kolektif",
+	"sub_unsur_id": "6"
+}
+, {
+	"id": "8",
+	"nama": "Makalah presentasi pada forum ilmiah",
+	"sub_unsur_id": "7"
+}
+, {
+	"id": "9",
+	"nama": "Laporan hasil penelitian",
+	"sub_unsur_id": "7"
+}
+, {
+	"id": "10",
+	"nama": "Tinjauan ilmiah",
+	"sub_unsur_id": "7"
+}
+, {
+	"id": "11",
+	"nama": "Tulisan ilmiah populer",
+	"sub_unsur_id": "7"
+}
+, {
+	"id": "12",
+	"nama": "Artikel ilmiah bidang pendidikan dalam jurnal ilmiah",
+	"sub_unsur_id": "7"
+}
+, {
+	"id": "13",
+	"nama": "Buku teks pelajaran",
+	"sub_unsur_id": "7"
+}
+, {
+	"id": "14",
+	"nama": "Modul\/diktat pembelajaran",
+	"sub_unsur_id": "7"
+}
+, {
+	"id": "15",
+	"nama": "Buku dalam bidang pendidikan",
+	"sub_unsur_id": "7"
+}
+, {
+	"id": "16",
+	"nama": "Buku karya terjemahan",
+	"sub_unsur_id": "7"
+}
+, {
+	"id": "17",
+	"nama": "Buku pedoman guru",
+	"sub_unsur_id": "7"
+}
+, {
+	"id": "18",
+	"nama": "Karya teknologi tepat guna",
+	"sub_unsur_id": "8"
+}
+, {
+	"id": "19",
+	"nama": "Karya seni",
+	"sub_unsur_id": "8"
+}
+, {
+	"id": "20",
+	"nama": "Alat pelajaran\/peraga",
+	"sub_unsur_id": "8"
+}
+, {
+	"id": "21",
+	"nama": "Alat praktikum",
+	"sub_unsur_id": "8"
+}
+, {
+	"id": "22",
+	"nama": "Karya pengembangan, penyusunan standar, pedoman, soal, dan sejenisnya",
+	"sub_unsur_id": "8"
+}
+, {
+	"id": "23",
+	"nama": "Memperoleh gelar\/ijazah yang tidak sesuai dengan bidang yang diampunya",
+	"sub_unsur_id": "9"
+}
+, {
+	"id": "24",
+	"nama": "Melaksanakan kegiatan yang mendukung tugas guru",
+	"sub_unsur_id": "10"
+}
+, {
+	"id": "25",
+	"nama": "Perolehan penghargaan\/tanda jasa",
+	"sub_unsur_id": "11"
+}
+]}

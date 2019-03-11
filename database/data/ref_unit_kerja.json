@@ -1,0 +1,2753 @@
+{
+"ref_unit_kerja": [
+{
+	"id": "1",
+	"kota_id": "1",
+	"npsn": "20232466",
+	"nama": "SMKN 1 BOJONG GEDE",
+	"alamat": "JL. RAYA PERUM PURA BOJONGGEDE KP. CIPEUCANG",
+	"kecamatan": "KEC. CITEUREUP",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "2",
+	"kota_id": "1",
+	"npsn": "20270736",
+	"nama": "SMKN 1 LEUWILIANG",
+	"alamat": "JL. PABANGBON",
+	"kecamatan": "KAB. BOGOR",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "3",
+	"kota_id": "1",
+	"npsn": "69830365",
+	"nama": "SMK NEGERI 2 CIBINONG",
+	"alamat": "JL. RAYA SKB NO. 1",
+	"kecamatan": "KEC. CITEUREUP",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "4",
+	"kota_id": "1",
+	"npsn": "69847637",
+	"nama": "SMK N 1 CILEUNGSI",
+	"alamat": "JL. RAYA NAROGONG - CILEUNGSI",
+	"kecamatan": "KEC. CIAWI",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "5",
+	"kota_id": "1",
+	"npsn": "69772603",
+	"nama": "SMKN 1 PUNCAK CISARUA",
+	"alamat": "JL.RAYA PUNCAK NO.24 KM.86 TUGU SELATAN",
+	"kecamatan": "KEC. CIAWI",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "6",
+	"kota_id": "1",
+	"npsn": "69955278",
+	"nama": "SMK NEGERI 1 KEMANG",
+	"alamat": "JL KEMANG LIMUS MANGGUNG RT 004\/002",
+	"kecamatan": "KEC. CITEUREUP",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "7",
+	"kota_id": "1",
+	"npsn": "20254135",
+	"nama": "SMKN 1 CIOMAS",
+	"alamat": "JL. RAYA  LALADON DESA LALADON  KECAMATAN  CIOMAS",
+	"kecamatan": "KAB. BOGOR",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "8",
+	"kota_id": "1",
+	"npsn": "20271184",
+	"nama": "SMKN 1 GUNUNG SINDUR",
+	"alamat": "SMPN 3 GUNUNGSINDUR",
+	"kecamatan": "KEC. CITEUREUP",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "9",
+	"kota_id": "1",
+	"npsn": "20231420",
+	"nama": "SMKN 1 CIBINONG",
+	"alamat": "JL. KARADENAN NO. 7 CIBINONG BOGOR",
+	"kecamatan": "KEC. CITEUREUP",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "10",
+	"kota_id": "1",
+	"npsn": "20231421",
+	"nama": "SMKN 1 GUNUNGPUTRI",
+	"alamat": "JL. BAROKAH NO. 6 WANAHERANG GUNUNGPUTRI BOGOR",
+	"kecamatan": "KEC. CIAWI",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "11",
+	"kota_id": "1",
+	"npsn": "20231419",
+	"nama": "SMKN 1 CARIU",
+	"alamat": "JL. BABAKAN RADEN NO. 807 CARIU",
+	"kecamatan": "KEC. CIAWI",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "12",
+	"kota_id": "2",
+	"npsn": "20220275",
+	"nama": "SMKN 3 BOGOR",
+	"alamat": "JL. RAYA PAJAJARAN NO. 84 BOGOR",
+	"kecamatan": "KOTA BOGOR",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "13",
+	"kota_id": "2",
+	"npsn": "20258095",
+	"nama": "SMKN 4 BOGOR",
+	"alamat": "KP. BUNTAR KELURAHAN MUARASARI",
+	"kecamatan": "KOTA BOGOR",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "14",
+	"kota_id": "2",
+	"npsn": "20220273",
+	"nama": "SMKN 1 BOGOR",
+	"alamat": "JL. HEULANG NO. 6 BOGOR",
+	"kecamatan": "KOTA BOGOR",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "15",
+	"kota_id": "2",
+	"npsn": "20238524",
+	"nama": "SMK-SMAK BOGOR",
+	"alamat": "JALAN BINAMARGA I, CIHEULEUT BARANANGSIANG",
+	"kecamatan": "KOTA BOGOR",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "16",
+	"kota_id": "2",
+	"npsn": "20220274",
+	"nama": "SMKN 2 BOGOR",
+	"alamat": "JL. PANGERAN SOGIRI NO. 404 TANAH BARU BOGOR",
+	"kecamatan": "KOTA BOGOR",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "17",
+	"kota_id": "3",
+	"npsn": "20229220",
+	"nama": "SMKN 2 DEPOK",
+	"alamat": "JL. ABDUL WAHAB PINTU 2 TELAGA GOLF",
+	"kecamatan": "KOTA DEPOK",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "18",
+	"kota_id": "3",
+	"npsn": "20229219",
+	"nama": "SMKN 1 DEPOK",
+	"alamat": "JL. RAYA TAPOS GG.BHAKTI SUCI CIMPAEUN",
+	"kecamatan": "KEC. TAPOS",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "19",
+	"kota_id": "3",
+	"npsn": "69900111",
+	"nama": "SMK NEGERI 4 DEPOK",
+	"alamat": "JL. KRAMAT 3",
+	"kecamatan": "KEC. TAPOS",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "20",
+	"kota_id": "3",
+	"npsn": "20276188",
+	"nama": "SMKN 3 DEPOK",
+	"alamat": "JL. PATUMBAR RT 05\/06",
+	"kecamatan": "KOTA DEPOK",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "21",
+	"kota_id": "4",
+	"npsn": "20218369",
+	"nama": "SMKN 1 CIKARANG BARAT",
+	"alamat": "JL. TEUKU UMAR NO. 1 CIKARANG BARAT",
+	"kecamatan": "KEC. TARUMA JAYA",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "22",
+	"kota_id": "4",
+	"npsn": "20218376",
+	"nama": "SMKN 1 TAMBELANG",
+	"alamat": "RAYA TAMBELANG",
+	"kecamatan": "KEC. TARUMA JAYA",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "23",
+	"kota_id": "4",
+	"npsn": "20244734",
+	"nama": "SMKN 1 CIBARUSAH",
+	"alamat": "JL. RAYA CIBARUSAH KABUPATEN BEKASI",
+	"kecamatan": "KAB. BEKASI",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "24",
+	"kota_id": "4",
+	"npsn": "20238032",
+	"nama": "SMKN 1 CIKARANG SELATAN",
+	"alamat": "CIANTRA",
+	"kecamatan": "KEC. CIKARANG UTARA",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "25",
+	"kota_id": "4",
+	"npsn": "69759066",
+	"nama": "SMKN 1 TAMBUN SELATAN",
+	"alamat": "DESA SETIA MEKAR",
+	"kecamatan": "KEC. TARUMA JAYA",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "26",
+	"kota_id": "4",
+	"npsn": "20218377",
+	"nama": "SMKN 2 CIKARANG BARAT",
+	"alamat": "JL. FATAHILAH NO.1A CIKARANG BARAT KAB. BEKASI",
+	"kecamatan": "KEC. TARUMA JAYA",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "27",
+	"kota_id": "4",
+	"npsn": "20238033",
+	"nama": "SMKN 1 SETU",
+	"alamat": "JL. MT HARYONO NO. 71A SETU KABUPATEN BEKASI",
+	"kecamatan": "KAB. BEKASI",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "28",
+	"kota_id": "4",
+	"npsn": "20238031",
+	"nama": "SMKN 1 BABELAN",
+	"alamat": "JALAN PERTAMINA",
+	"kecamatan": "KAB. BEKASI",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "29",
+	"kota_id": "4",
+	"npsn": "20245436",
+	"nama": "SMKN 1 TAMBUN UTARA",
+	"alamat": "RAYA SRIJAYA NO.2",
+	"kecamatan": "KEC. TARUMA JAYA",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "30",
+	"kota_id": "4",
+	"npsn": "20254052",
+	"nama": "SMKN 1 PEBAYURAN",
+	"alamat": "JL. RAYA PEBAYURAN-PEBAYURAN",
+	"kecamatan": "KEC. TARUMA JAYA",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "31",
+	"kota_id": "4",
+	"npsn": "20244820",
+	"nama": "SMKN 1 CIKARANG PUSAT",
+	"alamat": "JL. RAYA PASIR RANJI",
+	"kecamatan": "KEC. CIKARANG UTARA",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "32",
+	"kota_id": "4",
+	"npsn": "20247250",
+	"nama": "SMKN 1 CIKARANG UTARA",
+	"alamat": "PERUM. GRAND CIKARANG CITY",
+	"kecamatan": "KEC. CIKARANG UTARA",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "33",
+	"kota_id": "4",
+	"npsn": "20244766",
+	"nama": "SMKN 1 TARUMAJAYA",
+	"alamat": "JL. RAYA TARUMAJAYA, TANAH BARU PANTAI MAKMUR BKS.",
+	"kecamatan": "KEC. TARUMA JAYA",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "34",
+	"kota_id": "5",
+	"npsn": "20269651",
+	"nama": "SMKN 6 KOTA BEKASI",
+	"alamat": "JL. KUSUMA UTARA RAYA PERUM WISMA JAYA  NO. 169 RT. 001 RW. 016",
+	"kecamatan": "KOTA BEKASI",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "35",
+	"kota_id": "5",
+	"npsn": "20231741",
+	"nama": "SMKN 2 KOTA BEKASI",
+	"alamat": "JL. LAP. BOLA RAWA BUTUN CIKETING UDIK",
+	"kecamatan": "KOTA BEKASI",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "36",
+	"kota_id": "5",
+	"npsn": "69904742",
+	"nama": "SMK NEGERI 12 KOTA BEKASI",
+	"alamat": "JL. NANGKA 3 ATAS",
+	"kecamatan": "KOTA BEKASI",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "37",
+	"kota_id": "5",
+	"npsn": "20253307",
+	"nama": "SMKN 3 KOTA BEKASI",
+	"alamat": "PERUM MUTIARA GADING TIMUR BLOK L5 NO.1 RT 03\/01",
+	"kecamatan": "KEC. RAWALUMBU",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "38",
+	"kota_id": "5",
+	"npsn": "20271648",
+	"nama": "SMKN 9 KOTA BEKASI",
+	"alamat": "JL. CIKUNIR RAYA GANG H. ABAS RT 01 RW 02 JAKA MULYA",
+	"kecamatan": "KOTA BEKASI",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "39",
+	"kota_id": "5",
+	"npsn": "69948380",
+	"nama": "SMK NEGERI 15 KOTA BEKASI",
+	"alamat": "JL KELAPA DUA RT 003 RW 008",
+	"kecamatan": "KEC. RAWALUMBU",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "40",
+	"kota_id": "5",
+	"npsn": "20223136",
+	"nama": "SMKN 1 KOTA BEKASI",
+	"alamat": "JL. BINTARA VIII NO.2",
+	"kecamatan": "KOTA BEKASI",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "41",
+	"kota_id": "5",
+	"npsn": "20271658",
+	"nama": "SMKN 8 KOTA BEKASI",
+	"alamat": "JL. BOJONG ASIH NO. 11",
+	"kecamatan": "KEC. RAWALUMBU",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "42",
+	"kota_id": "5",
+	"npsn": "20271593",
+	"nama": "SMKN 10 KOTA BEKASI",
+	"alamat": "KP SAWAH, JL SERVAS RT 07\/04",
+	"kecamatan": "KEC. RAWALUMBU",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "43",
+	"kota_id": "5",
+	"npsn": "20258176",
+	"nama": "SMKN 5 KOTA BEKASI",
+	"alamat": "JL. SERAYU 1 PERUMAHAN VILA INDAH PERMAI BLOK E 27 RT.09\/033 ",
+	"kecamatan": "KOTA BEKASI",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "44",
+	"kota_id": "5",
+	"npsn": "20269696",
+	"nama": "SMKN 7 BEKASI",
+	"alamat": "JL.PERUMAHAN ASABRI INDAH JATISARI",
+	"kecamatan": "KOTA BEKASI",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "45",
+	"kota_id": "5",
+	"npsn": "20269981",
+	"nama": "SMKN 4 KOTA BEKASI",
+	"alamat": "JL.GANDARIA, KRANGGAN WETAN ",
+	"kecamatan": "KOTA BEKASI",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "46",
+	"kota_id": "6",
+	"npsn": "69816446",
+	"nama": "SMKN 1 PAKISJAYA",
+	"alamat": "JL. RAYA TELUKBUYUNG",
+	"kecamatan": "KEC. PAKISJAYA",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "47",
+	"kota_id": "6",
+	"npsn": "20217801",
+	"nama": "SMKN 2 KARAWANG",
+	"alamat": "JL. BANTEN NO 5 ",
+	"kecamatan": "KEC. KARAWANG TIMUR",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "48",
+	"kota_id": "6",
+	"npsn": "60728565",
+	"nama": "SMKN PERTANIAN",
+	"alamat": "JL. SUROTO KUNTO NO 82 KARAWANG",
+	"kecamatan": "KEC. KARAWANG TIMUR",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "49",
+	"kota_id": "6",
+	"npsn": "20270735",
+	"nama": "SMKN 1 TIRTAMULYA",
+	"alamat": "JL. RAYA PARAKAN - WADAS",
+	"kecamatan": "KAB. KARAWANG",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "50",
+	"kota_id": "6",
+	"npsn": "60728562",
+	"nama": "SMKN 1 RAWAMERTA",
+	"alamat": "JL.RAYA RAWAMERTA DESA PASIRKALIKI KECAMATAN RAWAMERTA - KABUPATEN KARAWANG",
+	"kecamatan": "KEC. TELAGASARI",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "51",
+	"kota_id": "6",
+	"npsn": "60728564",
+	"nama": "SMKN 1 KLARI",
+	"alamat": "JL. RAYA KOSAMBI-CURUG ",
+	"kecamatan": "KAB. KARAWANG",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "52",
+	"kota_id": "6",
+	"npsn": "20237410",
+	"nama": "SMKN 1 CILAMAYA",
+	"alamat": "JALAN RAYA RAWAGEMPOL",
+	"kecamatan": "KEC. PAKISJAYA",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "53",
+	"kota_id": "6",
+	"npsn": "20237465",
+	"nama": "SMKN 1 RENGASDENGKLOK",
+	"alamat": "JL.RAYA PROKLAMASI DESA. AMANSARI  KEC. RENGASDENGKLOK",
+	"kecamatan": "KEC. TELAGASARI",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "54",
+	"kota_id": "6",
+	"npsn": "69734356",
+	"nama": "SMKN 1 TIRTAJAYA",
+	"alamat": "JL. RAYA PISANGSAMBO",
+	"kecamatan": "KEC. TELAGASARI",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "55",
+	"kota_id": "6",
+	"npsn": "69734352",
+	"nama": "SMKN JAYAKERTA",
+	"alamat": "JL RAYA JAYAKERTA",
+	"kecamatan": "KEC. PAKISJAYA",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "56",
+	"kota_id": "6",
+	"npsn": "69734354",
+	"nama": "SMKN PURWASARI",
+	"alamat": "DSN. PEDES",
+	"kecamatan": "KEC. PAKISJAYA",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "57",
+	"kota_id": "6",
+	"npsn": "69734353",
+	"nama": "SMKN BATUJAYA",
+	"alamat": "JALAN RAYA BATUJAYA ",
+	"kecamatan": "KEC. TELAGASARI",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "58",
+	"kota_id": "6",
+	"npsn": "20237464",
+	"nama": "SMKN 1 JATISARI",
+	"alamat": "JALAN RAYA JATISARI",
+	"kecamatan": "KAB. KARAWANG",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "59",
+	"kota_id": "6",
+	"npsn": "20217802",
+	"nama": "SMKN 1 KARAWANG",
+	"alamat": "JL. PANGKAL PERJUANGAN ",
+	"kecamatan": "KEC. KARAWANG TIMUR",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "60",
+	"kota_id": "6",
+	"npsn": "20217803",
+	"nama": "SMKN 1 CIKAMPEK",
+	"alamat": "JL. SUKAMANAH TIMUR , CIKAMPEK BARAT",
+	"kecamatan": "KAB. KARAWANG",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "61",
+	"kota_id": "6",
+	"npsn": "60728563",
+	"nama": "SMKN 1 BANYUSARI",
+	"alamat": "BANYUSARI",
+	"kecamatan": "KEC. PAKISJAYA",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "62",
+	"kota_id": "6",
+	"npsn": "20237414",
+	"nama": "SMKN 3 KARAWANG",
+	"alamat": "PERUMAHAN GRIYA KONDANG ASRI",
+	"kecamatan": "KEC. KARAWANG TIMUR",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "63",
+	"kota_id": "6",
+	"npsn": "69734350",
+	"nama": "SMKN  CILEBAR",
+	"alamat": "KERTAMUKTI",
+	"kecamatan": "KEC. KARAWANG TIMUR",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "64",
+	"kota_id": "7",
+	"npsn": "20229659",
+	"nama": "SMKN 1 PLERED",
+	"alamat": "JL. RAWA SARI",
+	"kecamatan": "KAB. PURWAKARTA",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "65",
+	"kota_id": "7",
+	"npsn": "20229756",
+	"nama": "SMKN 2 PURWAKARTA",
+	"alamat": "JL. JENDERAL A. YANI NO.98 PURWAKARTA",
+	"kecamatan": "KEC. PURWAKARTA",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "66",
+	"kota_id": "7",
+	"npsn": "69849572",
+	"nama": "SMKN 3 LINGGABUANA PURWAKARTA",
+	"alamat": "JL. VETERAN NO 3 PURWAKARTA",
+	"kecamatan": "KEC. PURWAKARTA",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "67",
+	"kota_id": "7",
+	"npsn": "69849091",
+	"nama": "SMKN DARANGDAN",
+	"alamat": "JL. DESA PASIRANGIN 41163",
+	"kecamatan": "KAB. PURWAKARTA",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "68",
+	"kota_id": "7",
+	"npsn": "69849086",
+	"nama": "SMKN MANIIS",
+	"alamat": "JL. SUMUR NANGKA 09\/05 ",
+	"kecamatan": "KAB. PURWAKARTA",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "69",
+	"kota_id": "7",
+	"npsn": "69849090",
+	"nama": "SMKN 3 SUKATANI",
+	"alamat": "JL. DESA SUKAMAJU RT 04\/02",
+	"kecamatan": "KAB. PURWAKARTA",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "70",
+	"kota_id": "7",
+	"npsn": "69849085",
+	"nama": "SMKN KIARAPEDES",
+	"alamat": "JL. RAYA KIARAPEDES 41175",
+	"kecamatan": "KEC. PURWAKARTA",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "71",
+	"kota_id": "7",
+	"npsn": "69849082",
+	"nama": "SMKN BUNGURSARI",
+	"alamat": "JL. CIKOPO-CIBODAS",
+	"kecamatan": "KEC. PURWAKARTA",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "72",
+	"kota_id": "7",
+	"npsn": "69849084",
+	"nama": "SMKN JATILUHUR",
+	"alamat": "JL. LURAH KAWI ",
+	"kecamatan": "KAB. PURWAKARTA",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "73",
+	"kota_id": "7",
+	"npsn": "69774530",
+	"nama": "SMKN 1 SUKATANI",
+	"alamat": "JL. RAYA SUKATANI KM. 11 KP. PERTANIAN RT \/ RW 04 \/ 01 ",
+	"kecamatan": "KAB. PURWAKARTA",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "74",
+	"kota_id": "7",
+	"npsn": "20229757",
+	"nama": "SMKN 1 CIBATU",
+	"alamat": "JL. RAYA SADANG-SUBANG",
+	"kecamatan": "KEC. PURWAKARTA",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "75",
+	"kota_id": "7",
+	"npsn": "20253277",
+	"nama": "SMKN 1 BOJONG",
+	"alamat": "JL. RAYA KEC. BOJONG",
+	"kecamatan": "KAB. PURWAKARTA",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "76",
+	"kota_id": "7",
+	"npsn": "69849083",
+	"nama": "SMKN CAMPAKA",
+	"alamat": " JL BABAKAN CIREBON",
+	"kecamatan": "KEC. PURWAKARTA",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "77",
+	"kota_id": "7",
+	"npsn": "20217367",
+	"nama": "SMKN 1 PURWAKARTA",
+	"alamat": "JL. RAYA INDUSTRI KM.4 PURWAKARTA",
+	"kecamatan": "KEC. PURWAKARTA",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "78",
+	"kota_id": "7",
+	"npsn": "69849087",
+	"nama": "SMKN TEGALWARU",
+	"alamat": "JL. CIDONGKOL RT 03\/02",
+	"kecamatan": "KAB. PURWAKARTA",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "79",
+	"kota_id": "8",
+	"npsn": "20264741",
+	"nama": "SMKN 1 CIPEUNDEUY",
+	"alamat": "JL.KALIJATI-PRINGKASAP KM 8",
+	"kecamatan": "KAB. SUBANG",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "80",
+	"kota_id": "8",
+	"npsn": "69772518",
+	"nama": "SMKN 1 CIASEM",
+	"alamat": "JL. AHMAD YANI NO. 50",
+	"kecamatan": "KEC. PABUARAN",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "81",
+	"kota_id": "8",
+	"npsn": "20233677",
+	"nama": "SMKN 1 CIPUNAGARA",
+	"alamat": "KOMPLEK LAPANGAN MERAH",
+	"kecamatan": "KEC. PABUARAN",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "82",
+	"kota_id": "8",
+	"npsn": "69757496",
+	"nama": "SMKN 1 DAWUAN",
+	"alamat": "JL RAYA CISAMPIH NO 08 DAWUAN",
+	"kecamatan": "KEC. PUSAKANAGARA",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "83",
+	"kota_id": "8",
+	"npsn": "20233679",
+	"nama": "SMKN 1 PUSAKANAGARA",
+	"alamat": "JL. RAYA PUSAKANAGARA NO 154",
+	"kecamatan": "KEC. PUSAKANAGARA",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "84",
+	"kota_id": "8",
+	"npsn": "69877402",
+	"nama": "SMK NEGERI CIJAMBE",
+	"alamat": "JL. LEMPAR-CIRANGKONG KM.06 RT 11 RW 03",
+	"kecamatan": "KAB. SUBANG",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "85",
+	"kota_id": "8",
+	"npsn": "69772519",
+	"nama": "SMKN 1 BINONG",
+	"alamat": "JL. RAYA BINONG BLK POLSEK BINONG 41253",
+	"kecamatan": "KEC. PABUARAN",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "86",
+	"kota_id": "8",
+	"npsn": "20233680",
+	"nama": "SMKN 1 SUBANG",
+	"alamat": "JL. ARIEF RAHMAN HAKIM NO. 35 SUBANG",
+	"kecamatan": "KAB. SUBANG",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "87",
+	"kota_id": "8",
+	"npsn": "69888737",
+	"nama": "SMK NEGERI COMPRENG",
+	"alamat": "JL. RAYA COMPRENG",
+	"kecamatan": "KEC. PABUARAN",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "88",
+	"kota_id": "8",
+	"npsn": "69888738",
+	"nama": "SMK NEGERI KASOMALANG",
+	"alamat": "JL. RAYA SUKAJAYA",
+	"kecamatan": "KEC. PUSAKANAGARA",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "89",
+	"kota_id": "8",
+	"npsn": "69757495",
+	"nama": "SMKN 1 LEGONKULON",
+	"alamat": "JL RAYA PONDOK BALI KM 9",
+	"kecamatan": "KEC. PUSAKANAGARA",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "90",
+	"kota_id": "8",
+	"npsn": "69966267",
+	"nama": "SMK N 2 CIPUNAGARA",
+	"alamat": "JL. CIRASA NO.01",
+	"kecamatan": "KEC. PABUARAN",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "91",
+	"kota_id": "8",
+	"npsn": "69757494",
+	"nama": "SMKN 1 PATOKBEUSI",
+	"alamat": "JL RAYA RAWAGEBANG",
+	"kecamatan": "KEC. PABUARAN",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "92",
+	"kota_id": "8",
+	"npsn": "20217028",
+	"nama": "SMKN 2 SUBANG",
+	"alamat": "JL. KAPTEN PIERE TENDEAN KM. 05 DANGDEUR SUBANG",
+	"kecamatan": "KAB. SUBANG",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "93",
+	"kota_id": "8",
+	"npsn": "69757493",
+	"nama": "SMKN 1 CIKAUM",
+	"alamat": "JL.RAYA CIKAUM KM. 1 CIKAUM- SUBANG",
+	"kecamatan": "KEC. PABUARAN",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "94",
+	"kota_id": "8",
+	"npsn": "69878008",
+	"nama": "SMK NEGERI CIBOGO",
+	"alamat": "JLN. SUBANG-CIKAMURANG KM.12",
+	"kecamatan": "KAB. SUBANG",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "95",
+	"kota_id": "9",
+	"npsn": "20252841",
+	"nama": "SMKN 1 GEGERBITUNG",
+	"alamat": "PRAMUKA NO. 180",
+	"kecamatan": "KEC. LENGKONG",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "96",
+	"kota_id": "9",
+	"npsn": "20253660",
+	"nama": "SMKN 1 PALABUHANRATU",
+	"alamat": "JL. H, ANWARI KM 1,5 PALABUHANRATU",
+	"kecamatan": "KEC. LENGKONG",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "97",
+	"kota_id": "9",
+	"npsn": "60726515",
+	"nama": "SMKN 1 SUKABUMI",
+	"alamat": "JL. SALABINTANA WETAN RT\/RW 02\/11",
+	"kecamatan": "KEC. LENGKONG",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "98",
+	"kota_id": "9",
+	"npsn": "20253844",
+	"nama": "SMKN 1 SAGARANTEN",
+	"alamat": "JL. RAYA CIGADOG KM 2 SAGARANTEN",
+	"kecamatan": "KAB. SUKABUMI",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "99",
+	"kota_id": "9",
+	"npsn": "20253633",
+	"nama": "SMKN 1 GUNUNGGURUH",
+	"alamat": "JLN. VETERAN KM 4 CISAAT",
+	"kecamatan": "KEC. KABANDUNGAN",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "100",
+	"kota_id": "9",
+	"npsn": "20258445",
+	"nama": "SMKN 1 SUKALARANG",
+	"alamat": "JL. RAYA CIANJUR KM 12",
+	"kecamatan": "KEC. PURABAYA",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "101",
+	"kota_id": "9",
+	"npsn": "20253014",
+	"nama": "SMKN 1 SURADE",
+	"alamat": "RAYA CIPEUNDEUY NO. 1 SURADE",
+	"kecamatan": "KAB. SUKABUMI",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "102",
+	"kota_id": "9",
+	"npsn": "20246472",
+	"nama": "SMKN 1 TEGALBULEUD",
+	"alamat": "JL SILIWANGI - TEGALBULEUD KAB. SUKABUMI",
+	"kecamatan": "KAB. SUKABUMI",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "103",
+	"kota_id": "9",
+	"npsn": "20253658",
+	"nama": "SMKN PERTANIAN I SUKARAJA",
+	"alamat": "RAYA CIMAHPAR SUKARAJA",
+	"kecamatan": "KEC. LENGKONG",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "104",
+	"kota_id": "9",
+	"npsn": "20254202",
+	"nama": "SMKN 1 BOJONGGENTENG",
+	"alamat": "JL. NYALINDUNG",
+	"kecamatan": "KEC. PURABAYA",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "105",
+	"kota_id": "9",
+	"npsn": "20202278",
+	"nama": "SMKN 1 CIBADAK SUKABUMI",
+	"alamat": "JL. RAYA KARANGTENGAH NO.691 PO.BOX 3",
+	"kecamatan": "KEC. CISAAT",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "106",
+	"kota_id": "10",
+	"npsn": "20221570",
+	"nama": "SMKN 3 SUKABUMI",
+	"alamat": "JL. KABANDUNGAN NO.86 SUKABUMI",
+	"kecamatan": "KOTA SUKABUMI",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "107",
+	"kota_id": "10",
+	"npsn": "20253907",
+	"nama": "SMKN 4 SUKABUMI",
+	"alamat": "JALAN MERDEKA KM 4",
+	"kecamatan": "KOTA SUKABUMI",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "108",
+	"kota_id": "10",
+	"npsn": "20221568",
+	"nama": "SMKN 1 SUKABUMI",
+	"alamat": "JL. KABANDUNGAN NO. 90",
+	"kecamatan": "KOTA SUKABUMI",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "109",
+	"kota_id": "10",
+	"npsn": "20221569",
+	"nama": "SMKN 2 SUKABUMI",
+	"alamat": "JL. PELABUHAN II CIPOHO SUKABUMI",
+	"kecamatan": "KOTA SUKABUMI",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "110",
+	"kota_id": "11",
+	"npsn": "69967710",
+	"nama": "SMKN 1 CIPONGKOR",
+	"alamat": "KOMPLEK GADING TUTUKA 1 BLOK C1 NO 10 ",
+	"kecamatan": "KAB. BANDUNG BARAT",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "111",
+	"kota_id": "11",
+	"npsn": "20206224",
+	"nama": "SMKN 4 PADALARANG",
+	"alamat": "JL. RAYA PADALARANG NO. 451 KAB BANDUNG BARAT",
+	"kecamatan": "KAB. BANDUNG BARAT",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "112",
+	"kota_id": "11",
+	"npsn": "20258453",
+	"nama": "SMK NEGERI PERTANIAN PEMBANGUNAN LEMBANG",
+	"alamat": "RAYA TANGKUBAN PARAHU KM.3",
+	"kecamatan": "KEC. NGAMPRAH",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "113",
+	"kota_id": "11",
+	"npsn": "20279928",
+	"nama": "SMKN 1 CIPEUNDEUY ",
+	"alamat": "JL. CIRATA MARGALAKSANA RT.01 RW.12",
+	"kecamatan": "KEC. NGAMPRAH",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "114",
+	"kota_id": "11",
+	"npsn": "69888924",
+	"nama": "SMK NEGERI 1 CIPATAT",
+	"alamat": "JL. TERUSAN CIRATA RT 03 RW 01 SARIMUKTI 40754",
+	"kecamatan": "KAB. BANDUNG BARAT",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "115",
+	"kota_id": "11",
+	"npsn": "20252563",
+	"nama": "SMKN 1 CIHAMPELAS",
+	"alamat": "JL RAYA SAYURAN NO. 39 RT.01  RW.09",
+	"kecamatan": "KAB. BANDUNG BARAT",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "116",
+	"kota_id": "11",
+	"npsn": "69888925",
+	"nama": "SMK NEGERI 1 CISARUA",
+	"alamat": "JL. RAYA KOLONEL MASTURI CISARUA",
+	"kecamatan": "KEC. NGAMPRAH",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "117",
+	"kota_id": "11",
+	"npsn": "69756137",
+	"nama": "SMK NEGERI 1 RONGGA",
+	"alamat": "JL. RAYA RONGGA DESA CIBEDUG  RT 01\/01 BANDUNG BARAT",
+	"kecamatan": "KAB. BANDUNG BARAT",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "118",
+	"kota_id": "12",
+	"npsn": "20252869",
+	"nama": "SMK NEGERI 1 CIKADU",
+	"alamat": "JL. RAYA SIMPANG - KOLEBERES",
+	"kecamatan": "KEC. CIANJUR",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "119",
+	"kota_id": "12",
+	"npsn": "20203873",
+	"nama": "SMK NEGERI 2 CILAKU",
+	"alamat": "JLN. PERINTIS KEMERDEKAAN NO. 02",
+	"kecamatan": "KEC. PAGELARAN",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "120",
+	"kota_id": "12",
+	"npsn": "69762682",
+	"nama": "SMK NEGERI 1 PASIRKUDA",
+	"alamat": "KP PASIRSUIT",
+	"kecamatan": "KEC. GEKBRONG",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "121",
+	"kota_id": "12",
+	"npsn": "20203874",
+	"nama": "SMK NEGERI  1 CIDAUN",
+	"alamat": "JL. PELABUHAN JAYANTI DESA CIDAMAR KEC. CIDAUN KAB. CIANJUR 43275",
+	"kecamatan": "KAB. CIANJUR",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "122",
+	"kota_id": "12",
+	"npsn": "69888376",
+	"nama": "SMK NEGERI 2 PACET",
+	"alamat": "JL AGROPOLITAN KM3 KP GUNUNG PUTRI DS SUKATANI",
+	"kecamatan": "KEC. CIANJUR",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "123",
+	"kota_id": "12",
+	"npsn": "60725448",
+	"nama": "SMK NEGERI 1 AGRABINTA",
+	"alamat": "JLN. LINTAS SELATAN DESA MEKARSARI RT\/RW 03\/03 KEC. AGRABINTA KAB. CIANJUR",
+	"kecamatan": "KAB. CIANJUR",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "124",
+	"kota_id": "12",
+	"npsn": "20252398",
+	"nama": "SMK NEGERI 1 CIPANAS ",
+	"alamat": "JL. RAYA CIPANAS",
+	"kecamatan": "KEC. GEKBRONG",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "125",
+	"kota_id": "12",
+	"npsn": "69755244",
+	"nama": "SMKN 1 HAURWANGI",
+	"alamat": "JL CITARUM LAMA HAURWANGI",
+	"kecamatan": "KEC. GEKBRONG",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "126",
+	"kota_id": "12",
+	"npsn": "20252384",
+	"nama": "SMK NEGERI 1 CUGENANG",
+	"alamat": "DESA SARAMPAD",
+	"kecamatan": "KEC. CIANJUR",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "127",
+	"kota_id": "12",
+	"npsn": "20252029",
+	"nama": "SMK NEGERI  1 PACET",
+	"alamat": "JL. HANJAWAR PACET",
+	"kecamatan": "KEC. CIANJUR",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "128",
+	"kota_id": "12",
+	"npsn": "20252030",
+	"nama": "SMK NEGERI  1 CILAKU",
+	"alamat": "RAYA CIBEBER KM. 7",
+	"kecamatan": "KEC. PAGELARAN",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "129",
+	"kota_id": "12",
+	"npsn": "20252388",
+	"nama": "SMKN 1 BOJONGPICUNG",
+	"alamat": "RAYA DARMAGA, DESA SUKARATU, KEC. BOJONGPICUNG",
+	"kecamatan": "KEC. CIANJUR",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "130",
+	"kota_id": "12",
+	"npsn": "60726857",
+	"nama": "SMKN PP CIANJUR",
+	"alamat": "JL RAYA CIBEBER KM.5 PASIRSEMBUNG",
+	"kecamatan": "KEC. PAGELARAN",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "131",
+	"kota_id": "12",
+	"npsn": "20252652",
+	"nama": "SMK NEGERI 1 NARINGGUL",
+	"alamat": "JL. RAYA NARINGGUL KM.11 DS. WANGUNJAYA KEC. NARINGGUL KAB. CIANJUR",
+	"kecamatan": "KAB. CIANJUR",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "132",
+	"kota_id": "12",
+	"npsn": "69852111",
+	"nama": "SMK NEGERI 1 SINDANGBARANG",
+	"alamat": "JL RAYA SINDANGBARANG CIUJUNG KM 10 DS JAYAGIRI KEC SINDANGBARANG",
+	"kecamatan": "KAB. CIANJUR",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "133",
+	"kota_id": "12",
+	"npsn": "20252031",
+	"nama": "SMK NEGERI 1 PAGELARAN",
+	"alamat": "JL. RAYA PASIRPARI",
+	"kecamatan": "KEC. PAGELARAN",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "134",
+	"kota_id": "12",
+	"npsn": "20252210",
+	"nama": "SMK NEGERI 1 TANGGEUNG",
+	"alamat": "JALAN BOJONGSIRNA",
+	"kecamatan": "KAB. CIANJUR",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "135",
+	"kota_id": "12",
+	"npsn": "20252870",
+	"nama": "SMK NEGERI 1 SUKALUYU",
+	"alamat": "JL. BOJONGSARI \/ GEMPOL",
+	"kecamatan": "KEC. PAGELARAN",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "136",
+	"kota_id": "12",
+	"npsn": "20252032",
+	"nama": "SMK NEGERI  1 CIKALONGKULON",
+	"alamat": "RAYA CIKALONGKULON",
+	"kecamatan": "KEC. CIANJUR",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "137",
+	"kota_id": "12",
+	"npsn": "20252386",
+	"nama": "SMK NEGERI  1 CIBINONG ",
+	"alamat": "RAYA PAMOYANAN",
+	"kecamatan": "KAB. CIANJUR",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "138",
+	"kota_id": "12",
+	"npsn": "20203872",
+	"nama": "SMKN 1 CIANJUR",
+	"alamat": "JL. SILIWANGI NO. 41",
+	"kecamatan": "KEC. CIANJUR",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "139",
+	"kota_id": "12",
+	"npsn": "20252399",
+	"nama": "SMKN 1 CAMPAKA CIANJUR",
+	"alamat": "RAYA WARUNG BITUNG",
+	"kecamatan": "KEC. PAGELARAN",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "140",
+	"kota_id": "12",
+	"npsn": "20252868",
+	"nama": "SMK NEGERI 1 SUKANAGARA",
+	"alamat": "JALAN RAYA MEKARSARI KM. 6",
+	"kecamatan": "KAB. CIANJUR",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "141",
+	"kota_id": "12",
+	"npsn": "69883636",
+	"nama": "SMK NEGERI  2 LELES",
+	"alamat": "JL RD.H. MULYA DS PUSAKASARI",
+	"kecamatan": "KEC. CIANJUR",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "142",
+	"kota_id": "12",
+	"npsn": "20252505",
+	"nama": "SMK NEGERI  1 CIJATI",
+	"alamat": "JL. RAYA CIJATI",
+	"kecamatan": "KEC. CIANJUR",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "143",
+	"kota_id": "12",
+	"npsn": "20252392",
+	"nama": "SMK NEGERI 1 LELES",
+	"alamat": "RAYA BATU KASUR KM 101",
+	"kecamatan": "KEC. CIANJUR",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "144",
+	"kota_id": "12",
+	"npsn": "20252207",
+	"nama": "SMK NEGERI 1 KARANGTENGAH",
+	"alamat": "JL. JANGARI KM. 13",
+	"kecamatan": "KEC. PAGELARAN",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "145",
+	"kota_id": "12",
+	"npsn": "20252867",
+	"nama": "SMK NEGERI 1 TAKOKAK",
+	"alamat": "PASANGGARAHAN",
+	"kecamatan": "KAB. CIANJUR",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "146",
+	"kota_id": "13",
+	"npsn": "20219140",
+	"nama": "SMKN 8 BANDUNG",
+	"alamat": "JLN. KILININGAN NO.31",
+	"kecamatan": "KOTA BANDUNG",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "147",
+	"kota_id": "13",
+	"npsn": "20219175",
+	"nama": "SMKN 11 BANDUNG",
+	"alamat": "JL. BUDI CILEMBER",
+	"kecamatan": "KEC. RANCASARI",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "148",
+	"kota_id": "13",
+	"npsn": "20219178",
+	"nama": "SMKN 1 BANDUNG",
+	"alamat": "JL. WASTUKANCANA NO. 3",
+	"kecamatan": "KEC. RANCASARI",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "149",
+	"kota_id": "13",
+	"npsn": "20219160",
+	"nama": "SMKN 14 BANDUNG",
+	"alamat": "JL. CIJAWURA HILIR NO. 341",
+	"kecamatan": "KOTA BANDUNG",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "150",
+	"kota_id": "13",
+	"npsn": "20219139",
+	"nama": "SMKN 9 BANDUNG",
+	"alamat": "JALAN SOEKARNO-HATTA KM. 10",
+	"kecamatan": "KOTA BANDUNG",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "151",
+	"kota_id": "13",
+	"npsn": "20219144",
+	"nama": "SMKN 4 BANDUNG",
+	"alamat": "JL. KLININGAN NO.6, BUAH BATU",
+	"kecamatan": "KOTA BANDUNG",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "152",
+	"kota_id": "13",
+	"npsn": "20219231",
+	"nama": "SMK PU N PROVINSI JAWA BARAT",
+	"alamat": "JALAN GARUT NO.10",
+	"kecamatan": "KEC. RANCASARI",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "153",
+	"kota_id": "13",
+	"npsn": "20219146",
+	"nama": "SMKN 2 BANDUNG",
+	"alamat": "JL. CILIWUNG NO. 4",
+	"kecamatan": "KEC. BANDUNG WETAN",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "154",
+	"kota_id": "13",
+	"npsn": "20219176",
+	"nama": "SMKN 10 BANDUNG",
+	"alamat": "JL. CIJAWURA HILIR NO. 339",
+	"kecamatan": "KOTA BANDUNG",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "155",
+	"kota_id": "13",
+	"npsn": "20219141",
+	"nama": "SMKN 7 BANDUNG",
+	"alamat": "JL. SOEKARNO-HATTA NO. 596",
+	"kecamatan": "KOTA BANDUNG",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "156",
+	"kota_id": "13",
+	"npsn": "20219161",
+	"nama": "SMKN 13 BANDUNG",
+	"alamat": "JL. SOEKARNO-HATTA KM. 10 BANDUNG",
+	"kecamatan": "KOTA BANDUNG",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "157",
+	"kota_id": "13",
+	"npsn": "20219174",
+	"nama": "SMKN 12 BANDUNG",
+	"alamat": "JL. PAJAJARAN NO. 92",
+	"kecamatan": "KEC. RANCASARI",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "158",
+	"kota_id": "13",
+	"npsn": "20219143",
+	"nama": "SMKN 5 BANDUNG",
+	"alamat": "JL. BOJONGKONENG NO.37A BANDUNG",
+	"kecamatan": "KEC. BANDUNG WETAN",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "159",
+	"kota_id": "13",
+	"npsn": "20219159",
+	"nama": "SMKN 15 BANDUNG",
+	"alamat": "JALAN JENDRAL GATOT SUBROTO NO.4",
+	"kecamatan": "KOTA BANDUNG",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "160",
+	"kota_id": "13",
+	"npsn": "20219142",
+	"nama": "SMKN 6 BANDUNG",
+	"alamat": "JL. SOEKARNO-HATTA (RIUNG BANDUNG)",
+	"kecamatan": "KEC. BANDUNG WETAN",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "161",
+	"kota_id": "13",
+	"npsn": "20219145",
+	"nama": "SMKN 3 BANDUNG",
+	"alamat": "JL. SOLONTONGAN NO. 10",
+	"kecamatan": "KOTA BANDUNG",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "162",
+	"kota_id": "14",
+	"npsn": "20224136",
+	"nama": "SMK NEGERI 1 CIMAHI",
+	"alamat": "JL. MAHAR MARTANEGARA NO.48 LEUWIGAJAH",
+	"kecamatan": "KOTA CIMAHI",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "163",
+	"kota_id": "14",
+	"npsn": "20238571",
+	"nama": "SMK NEGERI 2 CIMAHI",
+	"alamat": "JL. KAMARUNG KM. 1,5 NO. 69 ",
+	"kecamatan": "KOTA CIMAHI",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "164",
+	"kota_id": "14",
+	"npsn": "20224135",
+	"nama": "SMK NEGERI 3 CIMAHI",
+	"alamat": "JL. SUKARASA NO. 136 CITEUREUP",
+	"kecamatan": "KOTA CIMAHI",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "165",
+	"kota_id": "15",
+	"npsn": "20206225",
+	"nama": "SMKN 3 BALEENDAH",
+	"alamat": "JL. ADIPATI AGUNG NO. 34 BALEENDAH",
+	"kecamatan": "KEC. CICALENGKA",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "166",
+	"kota_id": "15",
+	"npsn": "69883580",
+	"nama": "SMKN 1 RANCABALI",
+	"alamat": "JLN. PAHLAWAN KP. SIMPANG",
+	"kecamatan": "KEC. MARGA ASIH",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "167",
+	"kota_id": "15",
+	"npsn": "20206214",
+	"nama": "SMKN 1 KATAPANG",
+	"alamat": "JL. CEURI TERS KOPO KM. 13.5",
+	"kecamatan": "KEC. CICALENGKA",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "168",
+	"kota_id": "15",
+	"npsn": "69967685",
+	"nama": "SMKN 1 ARJASARI",
+	"alamat": "JL. RAYA ARJASARI CIPARAY KM 7",
+	"kecamatan": "KEC. CICALENGKA",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "169",
+	"kota_id": "15",
+	"npsn": "20229783",
+	"nama": "SMKN 1 RANCAEKEK",
+	"alamat": "JL. BOJONGSALAM-RANCAEKEK",
+	"kecamatan": "KEC. CICALENGKA",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "170",
+	"kota_id": "15",
+	"npsn": "69929705",
+	"nama": "SMKN 1 CILENGKRANG",
+	"alamat": "JL. TERUSAN NAGROG - CIWARU RT.02 RW.08",
+	"kecamatan": "KEC. MARGA ASIH",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "171",
+	"kota_id": "15",
+	"npsn": "20206226",
+	"nama": "SMKN 2 BALEENDAH",
+	"alamat": "JL. RAA WIRANATAKUSUMAH NO. 11",
+	"kecamatan": "KEC. CICALENGKA",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "172",
+	"kota_id": "15",
+	"npsn": "20256564",
+	"nama": "SMKN 1 MAJALAYA",
+	"alamat": "JL.IDRIS NO 99 RANCAJIGANG",
+	"kecamatan": "KEC. CICALENGKA",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "173",
+	"kota_id": "15",
+	"npsn": "20229784",
+	"nama": "SMKN 7 BALEENDAH",
+	"alamat": "JL. SILIWANGI KM 15 RT 08 RW 14",
+	"kecamatan": "KEC. CICALENGKA",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "174",
+	"kota_id": "15",
+	"npsn": "20271834",
+	"nama": "SMKN 1 SOREANG",
+	"alamat": "JL. NYALINDUNG NO. 1 RT 02\/RW.18",
+	"kecamatan": "KEC. CICALENGKA",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "175",
+	"kota_id": "15",
+	"npsn": "20206215",
+	"nama": "SMKN 5 PANGALENGAN",
+	"alamat": "JL. CINCHONA NO.8 SUKAMENAK PANGALENGAN",
+	"kecamatan": "KAB. BANDUNG",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "176",
+	"kota_id": "16",
+	"npsn": "20254188",
+	"nama": "SMK PPN TANJUNGSARI",
+	"alamat": "JL. RAYA BANDUNG-SUMEDANG KM. 29",
+	"kecamatan": "KAB. SUMEDANG",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "177",
+	"kota_id": "16",
+	"npsn": "20208393",
+	"nama": "SMKN 1 SUMEDANG",
+	"alamat": "MAYOR ABDURAKHMAN NO. 209",
+	"kecamatan": "KAB. SUMEDANG",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "178",
+	"kota_id": "16",
+	"npsn": "20251889",
+	"nama": "SMKN SUKASARI",
+	"alamat": "JL. KIARAPAYUNG KM. 4,8 SUKASARI JATINANGOR SUMEDANG 45366",
+	"kecamatan": "KEC. JATI GEDE",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "179",
+	"kota_id": "16",
+	"npsn": "20254838",
+	"nama": "SMK PP NEGERI SUMEDANG",
+	"alamat": "JL. MARGAMUKTI NO. 95",
+	"kecamatan": "KEC. WADO",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "180",
+	"kota_id": "16",
+	"npsn": "20235632",
+	"nama": "SMK NEGERI SITURAJA",
+	"alamat": "TANJUNG MANUNGGAL V SUKATALI SITURAJA",
+	"kecamatan": "KAB. SUMEDANG",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "181",
+	"kota_id": "16",
+	"npsn": "20208394",
+	"nama": "SMKN 2 SUMEDANG",
+	"alamat": "ARIEF RAKHMAN HAKIM NO. 59 SUMEDANG",
+	"kecamatan": "KAB. SUMEDANG",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "182",
+	"kota_id": "16",
+	"npsn": "20251887",
+	"nama": "SMKN 1 BUAHDUA",
+	"alamat": "JL. RAYA BUAHDUA KM.3",
+	"kecamatan": "KEC. WADO",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "183",
+	"kota_id": "17",
+	"npsn": "20215997",
+	"nama": "SMKN 2 INDRAMAYU",
+	"alamat": "JL. PABEAN UDIK NO. 15",
+	"kecamatan": "KEC. KARANGAMPEL",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "184",
+	"kota_id": "17",
+	"npsn": "20216002",
+	"nama": "SMKN 1 LELEA",
+	"alamat": "JL. RAYA LELEA",
+	"kecamatan": "KAB. INDRAMAYU",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "185",
+	"kota_id": "17",
+	"npsn": "20255901",
+	"nama": "SMKN 1 CIKEDUNG",
+	"alamat": "JL. RAYA CIKEDUNG - TERISI",
+	"kecamatan": "KAB. INDRAMAYU",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "186",
+	"kota_id": "17",
+	"npsn": "20241355",
+	"nama": "SMKN 1 KRANGKENG",
+	"alamat": "JALAN RAYA  SINGAKERTA KRANGKENG",
+	"kecamatan": "KAB. INDRAMAYU",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "187",
+	"kota_id": "17",
+	"npsn": "20271076",
+	"nama": "SMKN 1 ARAHAN",
+	"alamat": "JL. RAYA ARAHAN INDRAMAYU",
+	"kecamatan": "KEC. BONGAS",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "188",
+	"kota_id": "17",
+	"npsn": "20233761",
+	"nama": "SMKN 1 JATIBARANG",
+	"alamat": "JL. RAYA JATISAWIT JATIBARANG - INDRAMAYU",
+	"kecamatan": "KEC. KARANGAMPEL",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "189",
+	"kota_id": "17",
+	"npsn": "20233759",
+	"nama": "SMKN 1 BONGAS",
+	"alamat": "JL. RAYA BONGAS MARGAMULYA NO. 276 B",
+	"kecamatan": "KEC. BONGAS",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "190",
+	"kota_id": "17",
+	"npsn": "20255284",
+	"nama": "SMKN 1 SUKRA",
+	"alamat": "JALAN RAYA SUMURADEM TIMUR",
+	"kecamatan": "KEC. BONGAS",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "191",
+	"kota_id": "17",
+	"npsn": "20271070",
+	"nama": "SMKN 1 TERISI",
+	"alamat": "JL. CIBERENG - KENDAYAKAN",
+	"kecamatan": "KEC. BONGAS",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "192",
+	"kota_id": "17",
+	"npsn": "20233760",
+	"nama": "SMKN 1 GANTAR",
+	"alamat": "JL. RAYA HAURGEULIS - GANTAR KM. 06",
+	"kecamatan": "KEC. BONGAS",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "193",
+	"kota_id": "17",
+	"npsn": "20216001",
+	"nama": "SMKN 1 LOSARANG",
+	"alamat": "JL. RAYA SANTING LOSARANG INDRAMAYU",
+	"kecamatan": "KEC. KARANGAMPEL",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "194",
+	"kota_id": "17",
+	"npsn": "20233758",
+	"nama": "SMKN 1 BALONGAN",
+	"alamat": "JL. RAYA SUKAURIP N0. 35",
+	"kecamatan": "KEC. KARANGAMPEL",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "195",
+	"kota_id": "17",
+	"npsn": "20215998",
+	"nama": "SMKN 1 SINDANG",
+	"alamat": "JL. MAYOR DASUKI NO. 3B",
+	"kecamatan": "KEC. KARANGAMPEL",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "196",
+	"kota_id": "17",
+	"npsn": "20216004",
+	"nama": "SMKN 1 INDRAMAYU",
+	"alamat": "JL. GATOT SUBROTO NO. 47 INDRAMAYU",
+	"kecamatan": "KEC. KARANGAMPEL",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "197",
+	"kota_id": "17",
+	"npsn": "20271077",
+	"nama": "SMKN 1 PATROL",
+	"alamat": "JALAN RAYA BUGEL BLOK BADAK",
+	"kecamatan": "KEC. TUKDANA",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "198",
+	"kota_id": "17",
+	"npsn": "20254099",
+	"nama": "SMKN 1 GABUSWETAN",
+	"alamat": "JL. PU RANCAHAN",
+	"kecamatan": "KAB. INDRAMAYU",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "199",
+	"kota_id": "17",
+	"npsn": "20216005",
+	"nama": "SMKN 1 ANJATAN",
+	"alamat": "JL. RAYA LIMPAS ANJATAN",
+	"kecamatan": "KEC. BONGAS",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "200",
+	"kota_id": "17",
+	"npsn": "20216003",
+	"nama": "SMKN 1 KANDANGHAUR",
+	"alamat": "JL. RAYA ILIR NO.01",
+	"kecamatan": "KEC. KARANGAMPEL",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "201",
+	"kota_id": "17",
+	"npsn": "20271071",
+	"nama": "SMKN 1 WIDASARI",
+	"alamat": "JL.BY PASS UJUNGJAYA",
+	"kecamatan": "KAB. INDRAMAYU",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "202",
+	"kota_id": "18",
+	"npsn": "20213871",
+	"nama": "SMKN 1 KADIPATEN",
+	"alamat": "JL. SILIWANGI NO.30",
+	"kecamatan": "KEC. RAJAGALUH",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "203",
+	"kota_id": "18",
+	"npsn": "20213853",
+	"nama": "SMKN 1 MAJALENGKA",
+	"alamat": "JL. RAYA TONJONG-PINANGRAJA NO.55 MAJALENGKA",
+	"kecamatan": "KAB. MAJALENGKA",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "204",
+	"kota_id": "18",
+	"npsn": "20263968",
+	"nama": "SMKN 1 LEMAHSUGIH",
+	"alamat": "JL PADAREK NO 72 LEMAHSUGIH",
+	"kecamatan": "KAB. MAJALENGKA",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "205",
+	"kota_id": "18",
+	"npsn": "20213872",
+	"nama": "SMKN 1 TALAGA",
+	"alamat": "JL. SEKOLAH NO. 20",
+	"kecamatan": "KAB. MAJALENGKA",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "206",
+	"kota_id": "18",
+	"npsn": "69944965",
+	"nama": "SMKN 1 LEUWIMUNDING",
+	"alamat": "JL. RAYA LEUWIMUNDING NO.14",
+	"kecamatan": "KEC. RAJAGALUH",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "207",
+	"kota_id": "18",
+	"npsn": "20263964",
+	"nama": "SMKN 1 KERTAJATI",
+	"alamat": "JL. RAYA KERTAJATI - JATITUJUH",
+	"kecamatan": "KEC. RAJAGALUH",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "208",
+	"kota_id": "18",
+	"npsn": "20247197",
+	"nama": "SMKN 1 PALASAH",
+	"alamat": "JL. JATIWANGI-PALIMANAN KM 5",
+	"kecamatan": "KEC. RAJAGALUH",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "209",
+	"kota_id": "18",
+	"npsn": "20247198",
+	"nama": "SMKN 1 PANYINGKIRAN",
+	"alamat": "JL. KIRAPANDAK",
+	"kecamatan": "KEC. RAJAGALUH",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "210",
+	"kota_id": "18",
+	"npsn": "20213857",
+	"nama": "SMKN 1 MAJA",
+	"alamat": "JL. PASUKAN SINDANG KASIH NO. 155",
+	"kecamatan": "KAB. MAJALENGKA",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "211",
+	"kota_id": "18",
+	"npsn": "69812059",
+	"nama": "SMKN 1 MALAUSMA",
+	"alamat": "JALAN KARTABRAJA NO. 01 MALAUSMA - MAJALENGKA",
+	"kecamatan": "KEC. LIGUNG",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "212",
+	"kota_id": "18",
+	"npsn": "20263963",
+	"nama": "SMKN KEHUTANAN KADIPATEN",
+	"alamat": "JL. RAYA TIMUR SAWALA KOTAK POS 20 KADIPATEN",
+	"kecamatan": "KEC. RAJAGALUH",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "213",
+	"kota_id": "19",
+	"npsn": "20268872",
+	"nama": "SMK NEGERI 1 JAPARA",
+	"alamat": "JALAN RAYA PUSKESMAS  KECAMATAN  JAPARA DESA JAPARA",
+	"kecamatan": "KEC. PANCALANG",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "214",
+	"kota_id": "19",
+	"npsn": "20246369",
+	"nama": "SMK NEGERI 4 KUNINGAN",
+	"alamat": "JL. RAYA CIKESIK - CIDAHU",
+	"kecamatan": "KAB. KUNINGAN",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "215",
+	"kota_id": "19",
+	"npsn": "20212912",
+	"nama": "SMK NEGERI 2 KUNINGAN",
+	"alamat": "JL. SUKAMULYA NO. 77",
+	"kecamatan": "KEC. CIAWIGEBANG",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "216",
+	"kota_id": "19",
+	"npsn": "20252161",
+	"nama": "SMK NEGERI 6 KUNINGAN",
+	"alamat": "JL. RAYA SINDANGKEMPENG",
+	"kecamatan": "KEC. PANCALANG",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "217",
+	"kota_id": "19",
+	"npsn": "20279827",
+	"nama": "SMK NEGERI 1 CILIMUS",
+	"alamat": "JL. BARU  LINGKAR CARACAS CILIMUS",
+	"kecamatan": "KEC. CIAWIGEBANG",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "218",
+	"kota_id": "19",
+	"npsn": "20254692",
+	"nama": "SMK NEGERI 1 LURAGUNG",
+	"alamat": "JL RAYA LURAGUNG-CIDAHU",
+	"kecamatan": "KAB. KUNINGAN",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "219",
+	"kota_id": "19",
+	"npsn": "20212913",
+	"nama": "SMK NEGERI 1 KUNINGAN",
+	"alamat": "JL. RAYA SUKAMULYA CIGUGUR KUNINGAN",
+	"kecamatan": "KEC. CIAWIGEBANG",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "220",
+	"kota_id": "19",
+	"npsn": "20212911",
+	"nama": "SMK NEGERI 3 KUNINGAN",
+	"alamat": "JL. RAYA CIRENDANG-CIGUGUR",
+	"kecamatan": "KEC. CIAWIGEBANG",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "221",
+	"kota_id": "19",
+	"npsn": "20246370",
+	"nama": "SMK NEGERI 5 KUNINGAN",
+	"alamat": "JL. RAYA CIAWIGEBANG KM. 15",
+	"kecamatan": "KEC. CIAWIGEBANG",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "222",
+	"kota_id": "20",
+	"npsn": "20268734",
+	"nama": "SMKN 1 GUNUNG JATI",
+	"alamat": "JL. KI GEDE MAYUNG NO.14 B",
+	"kecamatan": "KEC. GEBANG",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "223",
+	"kota_id": "20",
+	"npsn": "20214795",
+	"nama": "SMKN 1 MUNDU CIREBON",
+	"alamat": "JL. KALIJAGA MUNDU PESISIR NO.1",
+	"kecamatan": "KAB. CIREBON",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "224",
+	"kota_id": "20",
+	"npsn": "20253778",
+	"nama": "SMKN 1 GEBANG",
+	"alamat": "JL. RAYA GEBANG ILIR PERUM GEBANG PERMAI NO. 01",
+	"kecamatan": "KEC. GEBANG",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "225",
+	"kota_id": "20",
+	"npsn": "20214796",
+	"nama": "SMKN 1 KEDAWUNG",
+	"alamat": "JL. TUPAREV NO. 12",
+	"kecamatan": "KEC. GEBANG",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "226",
+	"kota_id": "20",
+	"npsn": "20244699",
+	"nama": "SMKN 1 JAMBLANG",
+	"alamat": "JL. NYI MAS RARA KERTA",
+	"kecamatan": "KEC. GEMPOL",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "227",
+	"kota_id": "20",
+	"npsn": "20214794",
+	"nama": "SMKN 1 SUSUKAN",
+	"alamat": "JL. BAGUS SERIT",
+	"kecamatan": "KEC. ARJAWINANGUN",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "228",
+	"kota_id": "20",
+	"npsn": "20244700",
+	"nama": "SMKN 1 LEMAHABANG CIREBON",
+	"alamat": "JL. KH WAHID HASYIM NO.76 LEMAHABANG",
+	"kecamatan": "KAB. CIREBON",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "229",
+	"kota_id": "21",
+	"npsn": "20222175",
+	"nama": "SMKN 2 CIREBON",
+	"alamat": "JL. DR. CIPTOMANGUNKUSUMO",
+	"kecamatan": "KOTA CIREBON",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "230",
+	"kota_id": "21",
+	"npsn": "20222174",
+	"nama": "SMKN 1 CIREBON",
+	"alamat": "PERJUANGAN",
+	"kecamatan": "KOTA CIREBON",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "231",
+	"kota_id": "22",
+	"npsn": "20209203",
+	"nama": "SMKN 2 GARUT",
+	"alamat": "SUHERMAN NO. 90 PO.BOX 103 TAROGONG KALER",
+	"kecamatan": "KEC. SELAAWI",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "232",
+	"kota_id": "22",
+	"npsn": "20209242",
+	"nama": "SMKN 8 GARUT",
+	"alamat": "RAYA LIMBANGAN SELAAWI KM.12",
+	"kecamatan": "KEC. SELAAWI",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "233",
+	"kota_id": "22",
+	"npsn": "20209201",
+	"nama": "SMKN 1 GARUT",
+	"alamat": "JL. CIMANUK NO. 309 A",
+	"kecamatan": "KEC. TAROGONG KIDUL",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "234",
+	"kota_id": "22",
+	"npsn": "20227488",
+	"nama": "SMKN 6 GARUT",
+	"alamat": "JALAN RAYA LIMBANGAN KM 1",
+	"kecamatan": "KEC. KARANGPAWITAN",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "235",
+	"kota_id": "22",
+	"npsn": "69753554",
+	"nama": "SMKN 13 GARUT",
+	"alamat": "PAMULIHAN ",
+	"kecamatan": "KAB. GARUT",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "236",
+	"kota_id": "22",
+	"npsn": "20254283",
+	"nama": "SMKN 12 GARUT",
+	"alamat": "JL. CIMANUK NO. 285",
+	"kecamatan": "KEC. TAROGONG KIDUL",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "237",
+	"kota_id": "22",
+	"npsn": "20253861",
+	"nama": "SMKN 9 GARUT",
+	"alamat": "RAYA BAYONGBONG",
+	"kecamatan": "KEC. PEUNDEUY",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "238",
+	"kota_id": "22",
+	"npsn": "20209208",
+	"nama": "SMKN 4 GARUT",
+	"alamat": "JL. RAYA KARANGPWITAN",
+	"kecamatan": "KEC. KARANGPAWITAN",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "239",
+	"kota_id": "22",
+	"npsn": "20262132",
+	"nama": "SMKN 7 GARUT",
+	"alamat": "JL. RAYA WADO MALANGBONG",
+	"kecamatan": "KEC. SELAAWI",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "240",
+	"kota_id": "22",
+	"npsn": "60730359",
+	"nama": "SMKN 14 GARUT",
+	"alamat": "KP. SIMPEUEREUM  RT 10 RW 01 DESA PADASUKA PASIRWANGI GARUT",
+	"kecamatan": "KEC. SELAAWI",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "241",
+	"kota_id": "22",
+	"npsn": "20262128",
+	"nama": "SMKN 10 GARUT",
+	"alamat": "JL. RAYA GARUT TASIK KM 08 DESA CILAWU KECAMATAN CILAWU KAB GARUT JAWA BARAT",
+	"kecamatan": "KEC. PEUNDEUY",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "242",
+	"kota_id": "22",
+	"npsn": "20227487",
+	"nama": "SMKN 5 GARUT",
+	"alamat": "JL. RAYA CIKELET",
+	"kecamatan": "KAB. GARUT",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "243",
+	"kota_id": "22",
+	"npsn": "20209202",
+	"nama": "SMKN 3 GARUT",
+	"alamat": "JL. MERDEKA NO. 121",
+	"kecamatan": "KEC. TAROGONG KIDUL",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "244",
+	"kota_id": "22",
+	"npsn": "20262129",
+	"nama": "SMKN 11 GARUT",
+	"alamat": "JL. PURWABHAKTI NO. 24 CISEWU - GARUT 44166",
+	"kecamatan": "KAB. GARUT",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "245",
+	"kota_id": "23",
+	"npsn": "69892762",
+	"nama": "SMKN CIKALONG",
+	"alamat": "JL. RAYA KALAPAGENEP KM. 13",
+	"kecamatan": "KAB. TASIKMALAYA",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "246",
+	"kota_id": "23",
+	"npsn": "20244755",
+	"nama": "SMKN RAJAPOLAH",
+	"alamat": "JL. CIINJUK NO 1 DS. SUKARAJA KEC. RAJAPOLAH",
+	"kecamatan": "KEC. CIGALONTANG",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "247",
+	"kota_id": "23",
+	"npsn": "20257901",
+	"nama": "SMKN PANCATENGAH",
+	"alamat": "JL. PASEH",
+	"kecamatan": "KAB. TASIKMALAYA",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "248",
+	"kota_id": "23",
+	"npsn": "69752264",
+	"nama": "SMKN KADIPATEN",
+	"alamat": "JL. PERJUANGAN NO 1",
+	"kecamatan": "KEC. SUKAHENING",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "249",
+	"kota_id": "23",
+	"npsn": "69752261",
+	"nama": "SMKN SUKARESIK",
+	"alamat": "JL. RAYA SUKARESIK",
+	"kecamatan": "KEC. SUKAHENING",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "250",
+	"kota_id": "23",
+	"npsn": "20268946",
+	"nama": "SMKN SPP",
+	"alamat": "JALAN MULYASARI NO.7 ",
+	"kecamatan": "KEC. TARAJU",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "251",
+	"kota_id": "23",
+	"npsn": "20269714",
+	"nama": "SMKN CIPATUJAH",
+	"alamat": "JALAN RAYA CIPATUJAH",
+	"kecamatan": "KAB. TASIKMALAYA",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "252",
+	"kota_id": "23",
+	"npsn": "20210711",
+	"nama": "SMKN BANTARKALONG",
+	"alamat": "JL. PEMUDA 2",
+	"kecamatan": "KAB. TASIKMALAYA",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "253",
+	"kota_id": "23",
+	"npsn": "69752263",
+	"nama": "SMKN PARUNGPONTENG",
+	"alamat": "JL. CILINTUNG",
+	"kecamatan": "KEC. CIGALONTANG",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "254",
+	"kota_id": "23",
+	"npsn": "69752266",
+	"nama": "SMKN KARANGJAYA",
+	"alamat": "JL. SIRNAJAYA DESA KARANGJAYA ",
+	"kecamatan": "KEC. SUKARATU",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "255",
+	"kota_id": "23",
+	"npsn": "69752267",
+	"nama": "SMKN PUSPAHIANG",
+	"alamat": "JL. RAYA PUSPAHIANG KP. KIANGRONYOK  DESA KECAMATAN PUSPAHIANG",
+	"kecamatan": "KEC. SUKARATU",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "256",
+	"kota_id": "23",
+	"npsn": "20244754",
+	"nama": "SMKN MANONJAYA",
+	"alamat": "GUNUNGTANJUNG KM.2,5",
+	"kecamatan": "KEC. TARAJU",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "257",
+	"kota_id": "24",
+	"npsn": "20224600",
+	"nama": "SMK NEGERI 2 TASIKMALAYA",
+	"alamat": "JL. NOENOENG TISNASAPUTRA TASIKMALAYA",
+	"kecamatan": "KOTA TASIKMALAYA",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "258",
+	"kota_id": "24",
+	"npsn": "20224599",
+	"nama": "SMK NEGERI 3 TASIKMALAYA",
+	"alamat": "JL. TAMANSARI GOBRAS NO. 100",
+	"kecamatan": "KOTA TASIKMALAYA",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "259",
+	"kota_id": "24",
+	"npsn": "20276063",
+	"nama": "SMKN 4 TASIKMALAYA",
+	"alamat": "JL. DEPOK RT 02 RW 05",
+	"kecamatan": "KOTA TASIKMALAYA",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "260",
+	"kota_id": "24",
+	"npsn": "20224614",
+	"nama": "SMK NEGERI 1 TASIKMALAYA",
+	"alamat": "JL. MANCOGEH NO. 26",
+	"kecamatan": "KOTA TASIKMALAYA",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "261",
+	"kota_id": "25",
+	"npsn": "20211512",
+	"nama": "SMKN 2 CIAMIS",
+	"alamat": "JL. SADANANYA NO. 21",
+	"kecamatan": "KEC. SUKADANA",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "262",
+	"kota_id": "25",
+	"npsn": "20253097",
+	"nama": "SMKN 1 RANCAH",
+	"alamat": "JL. RAJADESA RANCAH NO. 412",
+	"kecamatan": "KEC. BANJARSARI",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "263",
+	"kota_id": "25",
+	"npsn": "20233694",
+	"nama": "SMKN 1 KAWALI",
+	"alamat": "JL. TALAGASARI NO.35",
+	"kecamatan": "KEC. SUKADANA",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "264",
+	"kota_id": "25",
+	"npsn": "69759219",
+	"nama": "SMKN 1 PANJALU",
+	"alamat": "JL. RAYA SUKAMANTRI",
+	"kecamatan": "KEC. SUKADANA",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "265",
+	"kota_id": "25",
+	"npsn": "20251810",
+	"nama": "SMKN 1 RAJADESA",
+	"alamat": "JL. KUBANG ATAS NO.5",
+	"kecamatan": "KEC. BANJARSARI",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "266",
+	"kota_id": "25",
+	"npsn": "20211510",
+	"nama": "SMKN 1 CIAMIS",
+	"alamat": "JL. JEND. SUDIRMAN NO. 269",
+	"kecamatan": "KEC. SUKADANA",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "267",
+	"kota_id": "25",
+	"npsn": "20254621",
+	"nama": "SMKN 1 CIPAKU",
+	"alamat": "JALAN RAYA KAWALI KM.7 DSN.CIJOHO",
+	"kecamatan": "KEC. SUKADANA",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "268",
+	"kota_id": "26",
+	"npsn": "20254620",
+	"nama": "SMKN 1 CIJULANG",
+	"alamat": "JL. MAYOR RASWIAN",
+	"kecamatan": "",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "269",
+	"kota_id": "26",
+	"npsn": "20256282",
+	"nama": "SMKN 1 PADAHERANG",
+	"alamat": "JL. RAYA PADAHERANG KM.1",
+	"kecamatan": "",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "270",
+	"kota_id": "26",
+	"npsn": "20211511",
+	"nama": "SMKN 1 PANGANDARAN",
+	"alamat": "JL. RAYA MERDEKA NO. 222",
+	"kecamatan": "",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "271",
+	"kota_id": "26",
+	"npsn": "69926941",
+	"nama": "SMK NEGERI 2 PANGANDARAN",
+	"alamat": "JL.CINTARATU ",
+	"kecamatan": "KEC. PARIGI",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "272",
+	"kota_id": "27",
+	"npsn": "20254663",
+	"nama": "SMKN 3 BANJAR",
+	"alamat": "JL. JULAENI",
+	"kecamatan": "KOTA BANJAR",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "273",
+	"kota_id": "27",
+	"npsn": "20225282",
+	"nama": "SMKN 1 BANJAR",
+	"alamat": "JL. DR. HUSEIN KARTASASMITA",
+	"kecamatan": "KOTA BANJAR",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "274",
+	"kota_id": "27",
+	"npsn": "20229665",
+	"nama": "SMKN 2 BANJAR",
+	"alamat": "JL. RAYA BANJAR-CIAMIS DSN.CIPADUNG",
+	"kecamatan": "KOTA BANJAR",
+	"created_at": null,
+	"updated_at": null
+}
+, {
+	"id": "275",
+	"kota_id": "27",
+	"npsn": "60728393",
+	"nama": "SMKN 4 BANJAR",
+	"alamat": "JALAN RAYA BANJAR-PANGANDARAN",
+	"kecamatan": "KOTA BANJAR",
+	"created_at": null,
+	"updated_at": null
+}
+]}

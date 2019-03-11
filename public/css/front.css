@@ -1,0 +1,103 @@
+body {
+  font: 14px/1.75 'Raleway', sans-serif;
+  font-weight: 300;
+}
+
+.pre-header {
+  position: relative;
+  background: url('../img/frontend/preheader1.png') center center no-repeat #3f43a1;
+  color: #fff;
+  font-size: .8rem;
+  font-weight: 300; }
+  .pre-header:after {
+    content: "";
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 25%;
+    height: 100%;
+    background: url('../img/frontend/preheader2.png') left center no-repeat transparent; }
+  .pre-header div {
+    z-index: 1000; }
+  .pre-header a {
+    font-size: .9rem;
+    color: #fff }
+
+header > .navbar {
+  padding-top: 0;
+  padding-left: 0;
+  padding-right: 0;
+  font-size: .9rem }
+
+header > .navbar li a {
+  padding: 1rem;
+  margin-left: .5rem;
+  margin-right: .5rem }
+  header > .navbar li.active a {
+    color: #f10101!important;
+    font-weight: 500 }
+
+footer {
+  padding-top: 1rem;
+  background: #272a6d;
+  color: #fff; }
+  footer .real-footer {
+    margin-top: 1rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    background: #1e2151; }
+
+#content {
+  padding-top: 6rem;
+  min-height: 100vh; }
+
+.home-slider {
+  width: 100%;
+  height: 100vh;
+  overflow-x: hidden;
+  margin-top: -6rem }
+  .home-slider .content {
+    position: relative;
+    height: 100%;
+    background: center center no-repeat transparent;
+    background-size: cover }
+  .home-slider .content-box {
+    position: absolute;
+    top: 50%; left: 50%;
+    transform: translate(-50%, -50%);
+    width: auto; max-width: 90%;
+    height: auto; min-height: 6rem;
+    padding: 1rem 3rem;
+    border-radius: 3px;
+    color: #fefefe;
+    font-size: 1.2rem;
+    text-shadow: 1px 1px 1px rgba(0,0,0,.75) }
+  .home-slider .content-box h1,
+  .home-slider .content-box h2,
+  .home-slider .content-box h3,
+  .home-slider .content-box h4,
+  .home-slider .content-box h5,
+  .home-slider .content-box h6 {
+    margin-top: 0; }
+  .home-slider .slick-list,
+  .home-slider .slick-track {
+    height: 100% }
+  .home-slider .slick-prev,
+  .home-slider .slick-next {
+    z-index: 500; }
+  .home-slider .slick-prev:before,
+  .home-slider .slick-next:before {
+    font-size: 3rem; }
+  .home-slider .slick-prev { left: 2rem }
+  .home-slider .slick-next { right: 3rem }
+
+.home.content {
+  padding-top: 5rem;
+  padding-bottom: 5rem;}
+  .home.content .container {
+    min-height: calc(100vh - 6rem) }
+
+#about {}
+  #about .special-block {
+    background: #272a6d;
+    color: #fff; }

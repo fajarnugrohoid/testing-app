@@ -1,0 +1,38 @@
+<div class="ui inverted loading dimmer">
+	<div class="ui text loader">Loading</div>
+</div>
+<div class="header">Set Penilai</div>
+<div class="content">
+ 	<form class="ui data form" id="form-penilai" action="{{ url('sekretariat/set-penilai') }}" method="POST">
+ 		<input type="hidden" name="dupak_id" value="{{ $dupak_id }}">
+		<div class="ui error message"></div>
+		{!! csrf_field() !!}
+		<div class="ui grid">
+            <div class="sixteen wide column">
+                <div class="ui form">
+                    <div class="fields">
+                        <div class="sixteen wide field">
+                            <label for="">Penilai</label>
+                            <div class="ui small input">
+                                <select id="penilai" name="penilai_id" class="ui fluid search selection dropdown pilihan">
+                                    @foreach($penilai as $p)
+                                    <option value="{{ $p->id }}">{{ $p->nama }}</option>
+                                    @endforeach
+                                </select>
+                            </div>
+                        </div>
+                    </div>
+                </div>      
+            </div>      
+        </div>
+	</form>
+</div>
+<div class="actions">
+	<div class="ui black deny button">
+		Batal
+	</div>
+	<div class="ui positive right labeled icon save button">
+		Simpan
+		<i class="checkmark icon"></i>
+	</div>
+</div>

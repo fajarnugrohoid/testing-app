@@ -1,0 +1,3163 @@
+{
+"ref_at": [
+{
+	"angka_kredit_id": "19",
+	"penolakan_id": "1"
+}
+, {
+	"angka_kredit_id": "19",
+	"penolakan_id": "2"
+}
+, {
+	"angka_kredit_id": "19",
+	"penolakan_id": "3"
+}
+, {
+	"angka_kredit_id": "19",
+	"penolakan_id": "4"
+}
+, {
+	"angka_kredit_id": "19",
+	"penolakan_id": "5"
+}
+, {
+	"angka_kredit_id": "19",
+	"penolakan_id": "6"
+}
+, {
+	"angka_kredit_id": "19",
+	"penolakan_id": "7"
+}
+, {
+	"angka_kredit_id": "19",
+	"penolakan_id": "8"
+}
+, {
+	"angka_kredit_id": "20",
+	"penolakan_id": "1"
+}
+, {
+	"angka_kredit_id": "20",
+	"penolakan_id": "2"
+}
+, {
+	"angka_kredit_id": "20",
+	"penolakan_id": "3"
+}
+, {
+	"angka_kredit_id": "20",
+	"penolakan_id": "4"
+}
+, {
+	"angka_kredit_id": "20",
+	"penolakan_id": "5"
+}
+, {
+	"angka_kredit_id": "20",
+	"penolakan_id": "6"
+}
+, {
+	"angka_kredit_id": "20",
+	"penolakan_id": "7"
+}
+, {
+	"angka_kredit_id": "20",
+	"penolakan_id": "8"
+}
+, {
+	"angka_kredit_id": "21",
+	"penolakan_id": "1"
+}
+, {
+	"angka_kredit_id": "21",
+	"penolakan_id": "2"
+}
+, {
+	"angka_kredit_id": "21",
+	"penolakan_id": "3"
+}
+, {
+	"angka_kredit_id": "21",
+	"penolakan_id": "4"
+}
+, {
+	"angka_kredit_id": "21",
+	"penolakan_id": "5"
+}
+, {
+	"angka_kredit_id": "21",
+	"penolakan_id": "6"
+}
+, {
+	"angka_kredit_id": "21",
+	"penolakan_id": "7"
+}
+, {
+	"angka_kredit_id": "21",
+	"penolakan_id": "8"
+}
+, {
+	"angka_kredit_id": "22",
+	"penolakan_id": "1"
+}
+, {
+	"angka_kredit_id": "22",
+	"penolakan_id": "2"
+}
+, {
+	"angka_kredit_id": "22",
+	"penolakan_id": "3"
+}
+, {
+	"angka_kredit_id": "22",
+	"penolakan_id": "4"
+}
+, {
+	"angka_kredit_id": "22",
+	"penolakan_id": "5"
+}
+, {
+	"angka_kredit_id": "22",
+	"penolakan_id": "6"
+}
+, {
+	"angka_kredit_id": "22",
+	"penolakan_id": "7"
+}
+, {
+	"angka_kredit_id": "22",
+	"penolakan_id": "8"
+}
+, {
+	"angka_kredit_id": "23",
+	"penolakan_id": "1"
+}
+, {
+	"angka_kredit_id": "23",
+	"penolakan_id": "2"
+}
+, {
+	"angka_kredit_id": "23",
+	"penolakan_id": "3"
+}
+, {
+	"angka_kredit_id": "23",
+	"penolakan_id": "4"
+}
+, {
+	"angka_kredit_id": "23",
+	"penolakan_id": "5"
+}
+, {
+	"angka_kredit_id": "23",
+	"penolakan_id": "6"
+}
+, {
+	"angka_kredit_id": "23",
+	"penolakan_id": "7"
+}
+, {
+	"angka_kredit_id": "23",
+	"penolakan_id": "8"
+}
+, {
+	"angka_kredit_id": "24",
+	"penolakan_id": "1"
+}
+, {
+	"angka_kredit_id": "24",
+	"penolakan_id": "2"
+}
+, {
+	"angka_kredit_id": "24",
+	"penolakan_id": "3"
+}
+, {
+	"angka_kredit_id": "24",
+	"penolakan_id": "4"
+}
+, {
+	"angka_kredit_id": "24",
+	"penolakan_id": "5"
+}
+, {
+	"angka_kredit_id": "24",
+	"penolakan_id": "6"
+}
+, {
+	"angka_kredit_id": "24",
+	"penolakan_id": "7"
+}
+, {
+	"angka_kredit_id": "24",
+	"penolakan_id": "8"
+}
+, {
+	"angka_kredit_id": "25",
+	"penolakan_id": "9"
+}
+, {
+	"angka_kredit_id": "25",
+	"penolakan_id": "10"
+}
+, {
+	"angka_kredit_id": "25",
+	"penolakan_id": "11"
+}
+, {
+	"angka_kredit_id": "25",
+	"penolakan_id": "12"
+}
+, {
+	"angka_kredit_id": "25",
+	"penolakan_id": "13"
+}
+, {
+	"angka_kredit_id": "25",
+	"penolakan_id": "14"
+}
+, {
+	"angka_kredit_id": "25",
+	"penolakan_id": "15"
+}
+, {
+	"angka_kredit_id": "26",
+	"penolakan_id": "9"
+}
+, {
+	"angka_kredit_id": "26",
+	"penolakan_id": "10"
+}
+, {
+	"angka_kredit_id": "26",
+	"penolakan_id": "11"
+}
+, {
+	"angka_kredit_id": "26",
+	"penolakan_id": "12"
+}
+, {
+	"angka_kredit_id": "26",
+	"penolakan_id": "13"
+}
+, {
+	"angka_kredit_id": "26",
+	"penolakan_id": "14"
+}
+, {
+	"angka_kredit_id": "26",
+	"penolakan_id": "15"
+}
+, {
+	"angka_kredit_id": "27",
+	"penolakan_id": "9"
+}
+, {
+	"angka_kredit_id": "27",
+	"penolakan_id": "10"
+}
+, {
+	"angka_kredit_id": "27",
+	"penolakan_id": "11"
+}
+, {
+	"angka_kredit_id": "27",
+	"penolakan_id": "12"
+}
+, {
+	"angka_kredit_id": "27",
+	"penolakan_id": "13"
+}
+, {
+	"angka_kredit_id": "27",
+	"penolakan_id": "14"
+}
+, {
+	"angka_kredit_id": "27",
+	"penolakan_id": "15"
+}
+, {
+	"angka_kredit_id": "28",
+	"penolakan_id": "9"
+}
+, {
+	"angka_kredit_id": "28",
+	"penolakan_id": "10"
+}
+, {
+	"angka_kredit_id": "28",
+	"penolakan_id": "11"
+}
+, {
+	"angka_kredit_id": "28",
+	"penolakan_id": "12"
+}
+, {
+	"angka_kredit_id": "28",
+	"penolakan_id": "13"
+}
+, {
+	"angka_kredit_id": "28",
+	"penolakan_id": "14"
+}
+, {
+	"angka_kredit_id": "28",
+	"penolakan_id": "15"
+}
+, {
+	"angka_kredit_id": "29",
+	"penolakan_id": "16"
+}
+, {
+	"angka_kredit_id": "29",
+	"penolakan_id": "17"
+}
+, {
+	"angka_kredit_id": "29",
+	"penolakan_id": "18"
+}
+, {
+	"angka_kredit_id": "29",
+	"penolakan_id": "19"
+}
+, {
+	"angka_kredit_id": "29",
+	"penolakan_id": "20"
+}
+, {
+	"angka_kredit_id": "29",
+	"penolakan_id": "21"
+}
+, {
+	"angka_kredit_id": "29",
+	"penolakan_id": "22"
+}
+, {
+	"angka_kredit_id": "29",
+	"penolakan_id": "23"
+}
+, {
+	"angka_kredit_id": "29",
+	"penolakan_id": "24"
+}
+, {
+	"angka_kredit_id": "29",
+	"penolakan_id": "25"
+}
+, {
+	"angka_kredit_id": "29",
+	"penolakan_id": "26"
+}
+, {
+	"angka_kredit_id": "29",
+	"penolakan_id": "27"
+}
+, {
+	"angka_kredit_id": "29",
+	"penolakan_id": "28"
+}
+, {
+	"angka_kredit_id": "29",
+	"penolakan_id": "29"
+}
+, {
+	"angka_kredit_id": "29",
+	"penolakan_id": "30"
+}
+, {
+	"angka_kredit_id": "29",
+	"penolakan_id": "31"
+}
+, {
+	"angka_kredit_id": "29",
+	"penolakan_id": "32"
+}
+, {
+	"angka_kredit_id": "29",
+	"penolakan_id": "33"
+}
+, {
+	"angka_kredit_id": "29",
+	"penolakan_id": "34"
+}
+, {
+	"angka_kredit_id": "29",
+	"penolakan_id": "35"
+}
+, {
+	"angka_kredit_id": "29",
+	"penolakan_id": "73"
+}
+, {
+	"angka_kredit_id": "29",
+	"penolakan_id": "74"
+}
+, {
+	"angka_kredit_id": "29",
+	"penolakan_id": "75"
+}
+, {
+	"angka_kredit_id": "29",
+	"penolakan_id": "76"
+}
+, {
+	"angka_kredit_id": "30",
+	"penolakan_id": "16"
+}
+, {
+	"angka_kredit_id": "30",
+	"penolakan_id": "17"
+}
+, {
+	"angka_kredit_id": "30",
+	"penolakan_id": "18"
+}
+, {
+	"angka_kredit_id": "30",
+	"penolakan_id": "19"
+}
+, {
+	"angka_kredit_id": "30",
+	"penolakan_id": "20"
+}
+, {
+	"angka_kredit_id": "30",
+	"penolakan_id": "21"
+}
+, {
+	"angka_kredit_id": "30",
+	"penolakan_id": "22"
+}
+, {
+	"angka_kredit_id": "30",
+	"penolakan_id": "23"
+}
+, {
+	"angka_kredit_id": "30",
+	"penolakan_id": "24"
+}
+, {
+	"angka_kredit_id": "30",
+	"penolakan_id": "25"
+}
+, {
+	"angka_kredit_id": "30",
+	"penolakan_id": "26"
+}
+, {
+	"angka_kredit_id": "30",
+	"penolakan_id": "27"
+}
+, {
+	"angka_kredit_id": "30",
+	"penolakan_id": "28"
+}
+, {
+	"angka_kredit_id": "30",
+	"penolakan_id": "29"
+}
+, {
+	"angka_kredit_id": "30",
+	"penolakan_id": "30"
+}
+, {
+	"angka_kredit_id": "30",
+	"penolakan_id": "31"
+}
+, {
+	"angka_kredit_id": "30",
+	"penolakan_id": "32"
+}
+, {
+	"angka_kredit_id": "30",
+	"penolakan_id": "33"
+}
+, {
+	"angka_kredit_id": "30",
+	"penolakan_id": "34"
+}
+, {
+	"angka_kredit_id": "30",
+	"penolakan_id": "35"
+}
+, {
+	"angka_kredit_id": "30",
+	"penolakan_id": "73"
+}
+, {
+	"angka_kredit_id": "30",
+	"penolakan_id": "74"
+}
+, {
+	"angka_kredit_id": "30",
+	"penolakan_id": "75"
+}
+, {
+	"angka_kredit_id": "30",
+	"penolakan_id": "76"
+}
+, {
+	"angka_kredit_id": "31",
+	"penolakan_id": "16"
+}
+, {
+	"angka_kredit_id": "31",
+	"penolakan_id": "17"
+}
+, {
+	"angka_kredit_id": "31",
+	"penolakan_id": "18"
+}
+, {
+	"angka_kredit_id": "31",
+	"penolakan_id": "19"
+}
+, {
+	"angka_kredit_id": "31",
+	"penolakan_id": "20"
+}
+, {
+	"angka_kredit_id": "31",
+	"penolakan_id": "21"
+}
+, {
+	"angka_kredit_id": "31",
+	"penolakan_id": "22"
+}
+, {
+	"angka_kredit_id": "31",
+	"penolakan_id": "23"
+}
+, {
+	"angka_kredit_id": "31",
+	"penolakan_id": "24"
+}
+, {
+	"angka_kredit_id": "31",
+	"penolakan_id": "25"
+}
+, {
+	"angka_kredit_id": "31",
+	"penolakan_id": "26"
+}
+, {
+	"angka_kredit_id": "31",
+	"penolakan_id": "27"
+}
+, {
+	"angka_kredit_id": "31",
+	"penolakan_id": "28"
+}
+, {
+	"angka_kredit_id": "31",
+	"penolakan_id": "29"
+}
+, {
+	"angka_kredit_id": "31",
+	"penolakan_id": "30"
+}
+, {
+	"angka_kredit_id": "31",
+	"penolakan_id": "36"
+}
+, {
+	"angka_kredit_id": "31",
+	"penolakan_id": "37"
+}
+, {
+	"angka_kredit_id": "31",
+	"penolakan_id": "38"
+}
+, {
+	"angka_kredit_id": "31",
+	"penolakan_id": "39"
+}
+, {
+	"angka_kredit_id": "31",
+	"penolakan_id": "40"
+}
+, {
+	"angka_kredit_id": "31",
+	"penolakan_id": "41"
+}
+, {
+	"angka_kredit_id": "31",
+	"penolakan_id": "42"
+}
+, {
+	"angka_kredit_id": "31",
+	"penolakan_id": "43"
+}
+, {
+	"angka_kredit_id": "31",
+	"penolakan_id": "44"
+}
+, {
+	"angka_kredit_id": "31",
+	"penolakan_id": "45"
+}
+, {
+	"angka_kredit_id": "31",
+	"penolakan_id": "46"
+}
+, {
+	"angka_kredit_id": "31",
+	"penolakan_id": "47"
+}
+, {
+	"angka_kredit_id": "31",
+	"penolakan_id": "48"
+}
+, {
+	"angka_kredit_id": "31",
+	"penolakan_id": "49"
+}
+, {
+	"angka_kredit_id": "31",
+	"penolakan_id": "50"
+}
+, {
+	"angka_kredit_id": "31",
+	"penolakan_id": "51"
+}
+, {
+	"angka_kredit_id": "31",
+	"penolakan_id": "52"
+}
+, {
+	"angka_kredit_id": "31",
+	"penolakan_id": "53"
+}
+, {
+	"angka_kredit_id": "31",
+	"penolakan_id": "54"
+}
+, {
+	"angka_kredit_id": "31",
+	"penolakan_id": "73"
+}
+, {
+	"angka_kredit_id": "31",
+	"penolakan_id": "74"
+}
+, {
+	"angka_kredit_id": "31",
+	"penolakan_id": "75"
+}
+, {
+	"angka_kredit_id": "31",
+	"penolakan_id": "76"
+}
+, {
+	"angka_kredit_id": "32",
+	"penolakan_id": "16"
+}
+, {
+	"angka_kredit_id": "32",
+	"penolakan_id": "17"
+}
+, {
+	"angka_kredit_id": "32",
+	"penolakan_id": "18"
+}
+, {
+	"angka_kredit_id": "32",
+	"penolakan_id": "19"
+}
+, {
+	"angka_kredit_id": "32",
+	"penolakan_id": "20"
+}
+, {
+	"angka_kredit_id": "32",
+	"penolakan_id": "21"
+}
+, {
+	"angka_kredit_id": "32",
+	"penolakan_id": "22"
+}
+, {
+	"angka_kredit_id": "32",
+	"penolakan_id": "23"
+}
+, {
+	"angka_kredit_id": "32",
+	"penolakan_id": "24"
+}
+, {
+	"angka_kredit_id": "32",
+	"penolakan_id": "25"
+}
+, {
+	"angka_kredit_id": "32",
+	"penolakan_id": "26"
+}
+, {
+	"angka_kredit_id": "32",
+	"penolakan_id": "27"
+}
+, {
+	"angka_kredit_id": "32",
+	"penolakan_id": "28"
+}
+, {
+	"angka_kredit_id": "32",
+	"penolakan_id": "29"
+}
+, {
+	"angka_kredit_id": "32",
+	"penolakan_id": "30"
+}
+, {
+	"angka_kredit_id": "32",
+	"penolakan_id": "36"
+}
+, {
+	"angka_kredit_id": "32",
+	"penolakan_id": "37"
+}
+, {
+	"angka_kredit_id": "32",
+	"penolakan_id": "38"
+}
+, {
+	"angka_kredit_id": "32",
+	"penolakan_id": "39"
+}
+, {
+	"angka_kredit_id": "32",
+	"penolakan_id": "40"
+}
+, {
+	"angka_kredit_id": "32",
+	"penolakan_id": "41"
+}
+, {
+	"angka_kredit_id": "32",
+	"penolakan_id": "42"
+}
+, {
+	"angka_kredit_id": "32",
+	"penolakan_id": "43"
+}
+, {
+	"angka_kredit_id": "32",
+	"penolakan_id": "44"
+}
+, {
+	"angka_kredit_id": "32",
+	"penolakan_id": "45"
+}
+, {
+	"angka_kredit_id": "32",
+	"penolakan_id": "46"
+}
+, {
+	"angka_kredit_id": "32",
+	"penolakan_id": "47"
+}
+, {
+	"angka_kredit_id": "32",
+	"penolakan_id": "48"
+}
+, {
+	"angka_kredit_id": "32",
+	"penolakan_id": "49"
+}
+, {
+	"angka_kredit_id": "32",
+	"penolakan_id": "50"
+}
+, {
+	"angka_kredit_id": "32",
+	"penolakan_id": "51"
+}
+, {
+	"angka_kredit_id": "32",
+	"penolakan_id": "52"
+}
+, {
+	"angka_kredit_id": "32",
+	"penolakan_id": "53"
+}
+, {
+	"angka_kredit_id": "32",
+	"penolakan_id": "54"
+}
+, {
+	"angka_kredit_id": "32",
+	"penolakan_id": "73"
+}
+, {
+	"angka_kredit_id": "32",
+	"penolakan_id": "74"
+}
+, {
+	"angka_kredit_id": "32",
+	"penolakan_id": "75"
+}
+, {
+	"angka_kredit_id": "32",
+	"penolakan_id": "76"
+}
+, {
+	"angka_kredit_id": "33",
+	"penolakan_id": "16"
+}
+, {
+	"angka_kredit_id": "33",
+	"penolakan_id": "17"
+}
+, {
+	"angka_kredit_id": "33",
+	"penolakan_id": "18"
+}
+, {
+	"angka_kredit_id": "33",
+	"penolakan_id": "19"
+}
+, {
+	"angka_kredit_id": "33",
+	"penolakan_id": "20"
+}
+, {
+	"angka_kredit_id": "33",
+	"penolakan_id": "21"
+}
+, {
+	"angka_kredit_id": "33",
+	"penolakan_id": "22"
+}
+, {
+	"angka_kredit_id": "33",
+	"penolakan_id": "23"
+}
+, {
+	"angka_kredit_id": "33",
+	"penolakan_id": "24"
+}
+, {
+	"angka_kredit_id": "33",
+	"penolakan_id": "25"
+}
+, {
+	"angka_kredit_id": "33",
+	"penolakan_id": "26"
+}
+, {
+	"angka_kredit_id": "33",
+	"penolakan_id": "27"
+}
+, {
+	"angka_kredit_id": "33",
+	"penolakan_id": "28"
+}
+, {
+	"angka_kredit_id": "33",
+	"penolakan_id": "29"
+}
+, {
+	"angka_kredit_id": "33",
+	"penolakan_id": "30"
+}
+, {
+	"angka_kredit_id": "33",
+	"penolakan_id": "36"
+}
+, {
+	"angka_kredit_id": "33",
+	"penolakan_id": "37"
+}
+, {
+	"angka_kredit_id": "33",
+	"penolakan_id": "38"
+}
+, {
+	"angka_kredit_id": "33",
+	"penolakan_id": "39"
+}
+, {
+	"angka_kredit_id": "33",
+	"penolakan_id": "40"
+}
+, {
+	"angka_kredit_id": "33",
+	"penolakan_id": "41"
+}
+, {
+	"angka_kredit_id": "33",
+	"penolakan_id": "42"
+}
+, {
+	"angka_kredit_id": "33",
+	"penolakan_id": "43"
+}
+, {
+	"angka_kredit_id": "33",
+	"penolakan_id": "44"
+}
+, {
+	"angka_kredit_id": "33",
+	"penolakan_id": "45"
+}
+, {
+	"angka_kredit_id": "33",
+	"penolakan_id": "46"
+}
+, {
+	"angka_kredit_id": "33",
+	"penolakan_id": "47"
+}
+, {
+	"angka_kredit_id": "33",
+	"penolakan_id": "48"
+}
+, {
+	"angka_kredit_id": "33",
+	"penolakan_id": "49"
+}
+, {
+	"angka_kredit_id": "33",
+	"penolakan_id": "50"
+}
+, {
+	"angka_kredit_id": "33",
+	"penolakan_id": "51"
+}
+, {
+	"angka_kredit_id": "33",
+	"penolakan_id": "52"
+}
+, {
+	"angka_kredit_id": "33",
+	"penolakan_id": "53"
+}
+, {
+	"angka_kredit_id": "33",
+	"penolakan_id": "54"
+}
+, {
+	"angka_kredit_id": "33",
+	"penolakan_id": "73"
+}
+, {
+	"angka_kredit_id": "33",
+	"penolakan_id": "74"
+}
+, {
+	"angka_kredit_id": "33",
+	"penolakan_id": "75"
+}
+, {
+	"angka_kredit_id": "33",
+	"penolakan_id": "76"
+}
+, {
+	"angka_kredit_id": "34",
+	"penolakan_id": "16"
+}
+, {
+	"angka_kredit_id": "34",
+	"penolakan_id": "17"
+}
+, {
+	"angka_kredit_id": "34",
+	"penolakan_id": "18"
+}
+, {
+	"angka_kredit_id": "34",
+	"penolakan_id": "19"
+}
+, {
+	"angka_kredit_id": "34",
+	"penolakan_id": "20"
+}
+, {
+	"angka_kredit_id": "34",
+	"penolakan_id": "21"
+}
+, {
+	"angka_kredit_id": "34",
+	"penolakan_id": "22"
+}
+, {
+	"angka_kredit_id": "34",
+	"penolakan_id": "23"
+}
+, {
+	"angka_kredit_id": "34",
+	"penolakan_id": "24"
+}
+, {
+	"angka_kredit_id": "34",
+	"penolakan_id": "25"
+}
+, {
+	"angka_kredit_id": "34",
+	"penolakan_id": "26"
+}
+, {
+	"angka_kredit_id": "34",
+	"penolakan_id": "27"
+}
+, {
+	"angka_kredit_id": "34",
+	"penolakan_id": "28"
+}
+, {
+	"angka_kredit_id": "34",
+	"penolakan_id": "29"
+}
+, {
+	"angka_kredit_id": "34",
+	"penolakan_id": "30"
+}
+, {
+	"angka_kredit_id": "34",
+	"penolakan_id": "36"
+}
+, {
+	"angka_kredit_id": "34",
+	"penolakan_id": "37"
+}
+, {
+	"angka_kredit_id": "34",
+	"penolakan_id": "38"
+}
+, {
+	"angka_kredit_id": "34",
+	"penolakan_id": "39"
+}
+, {
+	"angka_kredit_id": "34",
+	"penolakan_id": "40"
+}
+, {
+	"angka_kredit_id": "34",
+	"penolakan_id": "41"
+}
+, {
+	"angka_kredit_id": "34",
+	"penolakan_id": "42"
+}
+, {
+	"angka_kredit_id": "34",
+	"penolakan_id": "43"
+}
+, {
+	"angka_kredit_id": "34",
+	"penolakan_id": "44"
+}
+, {
+	"angka_kredit_id": "34",
+	"penolakan_id": "45"
+}
+, {
+	"angka_kredit_id": "34",
+	"penolakan_id": "46"
+}
+, {
+	"angka_kredit_id": "34",
+	"penolakan_id": "47"
+}
+, {
+	"angka_kredit_id": "34",
+	"penolakan_id": "48"
+}
+, {
+	"angka_kredit_id": "34",
+	"penolakan_id": "49"
+}
+, {
+	"angka_kredit_id": "34",
+	"penolakan_id": "50"
+}
+, {
+	"angka_kredit_id": "34",
+	"penolakan_id": "51"
+}
+, {
+	"angka_kredit_id": "34",
+	"penolakan_id": "52"
+}
+, {
+	"angka_kredit_id": "34",
+	"penolakan_id": "53"
+}
+, {
+	"angka_kredit_id": "34",
+	"penolakan_id": "54"
+}
+, {
+	"angka_kredit_id": "34",
+	"penolakan_id": "73"
+}
+, {
+	"angka_kredit_id": "34",
+	"penolakan_id": "74"
+}
+, {
+	"angka_kredit_id": "34",
+	"penolakan_id": "75"
+}
+, {
+	"angka_kredit_id": "34",
+	"penolakan_id": "76"
+}
+, {
+	"angka_kredit_id": "35",
+	"penolakan_id": "16"
+}
+, {
+	"angka_kredit_id": "35",
+	"penolakan_id": "17"
+}
+, {
+	"angka_kredit_id": "35",
+	"penolakan_id": "18"
+}
+, {
+	"angka_kredit_id": "35",
+	"penolakan_id": "19"
+}
+, {
+	"angka_kredit_id": "35",
+	"penolakan_id": "20"
+}
+, {
+	"angka_kredit_id": "35",
+	"penolakan_id": "21"
+}
+, {
+	"angka_kredit_id": "35",
+	"penolakan_id": "22"
+}
+, {
+	"angka_kredit_id": "35",
+	"penolakan_id": "23"
+}
+, {
+	"angka_kredit_id": "35",
+	"penolakan_id": "24"
+}
+, {
+	"angka_kredit_id": "35",
+	"penolakan_id": "25"
+}
+, {
+	"angka_kredit_id": "35",
+	"penolakan_id": "26"
+}
+, {
+	"angka_kredit_id": "35",
+	"penolakan_id": "27"
+}
+, {
+	"angka_kredit_id": "35",
+	"penolakan_id": "28"
+}
+, {
+	"angka_kredit_id": "35",
+	"penolakan_id": "29"
+}
+, {
+	"angka_kredit_id": "35",
+	"penolakan_id": "30"
+}
+, {
+	"angka_kredit_id": "35",
+	"penolakan_id": "36"
+}
+, {
+	"angka_kredit_id": "35",
+	"penolakan_id": "37"
+}
+, {
+	"angka_kredit_id": "35",
+	"penolakan_id": "38"
+}
+, {
+	"angka_kredit_id": "35",
+	"penolakan_id": "39"
+}
+, {
+	"angka_kredit_id": "35",
+	"penolakan_id": "40"
+}
+, {
+	"angka_kredit_id": "35",
+	"penolakan_id": "41"
+}
+, {
+	"angka_kredit_id": "35",
+	"penolakan_id": "42"
+}
+, {
+	"angka_kredit_id": "35",
+	"penolakan_id": "43"
+}
+, {
+	"angka_kredit_id": "35",
+	"penolakan_id": "44"
+}
+, {
+	"angka_kredit_id": "35",
+	"penolakan_id": "45"
+}
+, {
+	"angka_kredit_id": "35",
+	"penolakan_id": "46"
+}
+, {
+	"angka_kredit_id": "35",
+	"penolakan_id": "47"
+}
+, {
+	"angka_kredit_id": "35",
+	"penolakan_id": "48"
+}
+, {
+	"angka_kredit_id": "35",
+	"penolakan_id": "49"
+}
+, {
+	"angka_kredit_id": "35",
+	"penolakan_id": "50"
+}
+, {
+	"angka_kredit_id": "35",
+	"penolakan_id": "51"
+}
+, {
+	"angka_kredit_id": "35",
+	"penolakan_id": "52"
+}
+, {
+	"angka_kredit_id": "35",
+	"penolakan_id": "53"
+}
+, {
+	"angka_kredit_id": "35",
+	"penolakan_id": "54"
+}
+, {
+	"angka_kredit_id": "35",
+	"penolakan_id": "73"
+}
+, {
+	"angka_kredit_id": "35",
+	"penolakan_id": "74"
+}
+, {
+	"angka_kredit_id": "35",
+	"penolakan_id": "75"
+}
+, {
+	"angka_kredit_id": "35",
+	"penolakan_id": "76"
+}
+, {
+	"angka_kredit_id": "36",
+	"penolakan_id": "16"
+}
+, {
+	"angka_kredit_id": "36",
+	"penolakan_id": "17"
+}
+, {
+	"angka_kredit_id": "36",
+	"penolakan_id": "18"
+}
+, {
+	"angka_kredit_id": "36",
+	"penolakan_id": "19"
+}
+, {
+	"angka_kredit_id": "36",
+	"penolakan_id": "20"
+}
+, {
+	"angka_kredit_id": "36",
+	"penolakan_id": "21"
+}
+, {
+	"angka_kredit_id": "36",
+	"penolakan_id": "22"
+}
+, {
+	"angka_kredit_id": "36",
+	"penolakan_id": "23"
+}
+, {
+	"angka_kredit_id": "36",
+	"penolakan_id": "24"
+}
+, {
+	"angka_kredit_id": "36",
+	"penolakan_id": "25"
+}
+, {
+	"angka_kredit_id": "36",
+	"penolakan_id": "26"
+}
+, {
+	"angka_kredit_id": "36",
+	"penolakan_id": "27"
+}
+, {
+	"angka_kredit_id": "36",
+	"penolakan_id": "28"
+}
+, {
+	"angka_kredit_id": "36",
+	"penolakan_id": "29"
+}
+, {
+	"angka_kredit_id": "36",
+	"penolakan_id": "30"
+}
+, {
+	"angka_kredit_id": "36",
+	"penolakan_id": "55"
+}
+, {
+	"angka_kredit_id": "36",
+	"penolakan_id": "56"
+}
+, {
+	"angka_kredit_id": "36",
+	"penolakan_id": "57"
+}
+, {
+	"angka_kredit_id": "36",
+	"penolakan_id": "73"
+}
+, {
+	"angka_kredit_id": "36",
+	"penolakan_id": "74"
+}
+, {
+	"angka_kredit_id": "36",
+	"penolakan_id": "75"
+}
+, {
+	"angka_kredit_id": "36",
+	"penolakan_id": "76"
+}
+, {
+	"angka_kredit_id": "37",
+	"penolakan_id": "16"
+}
+, {
+	"angka_kredit_id": "37",
+	"penolakan_id": "17"
+}
+, {
+	"angka_kredit_id": "37",
+	"penolakan_id": "18"
+}
+, {
+	"angka_kredit_id": "37",
+	"penolakan_id": "19"
+}
+, {
+	"angka_kredit_id": "37",
+	"penolakan_id": "20"
+}
+, {
+	"angka_kredit_id": "37",
+	"penolakan_id": "21"
+}
+, {
+	"angka_kredit_id": "37",
+	"penolakan_id": "22"
+}
+, {
+	"angka_kredit_id": "37",
+	"penolakan_id": "23"
+}
+, {
+	"angka_kredit_id": "37",
+	"penolakan_id": "24"
+}
+, {
+	"angka_kredit_id": "37",
+	"penolakan_id": "25"
+}
+, {
+	"angka_kredit_id": "37",
+	"penolakan_id": "26"
+}
+, {
+	"angka_kredit_id": "37",
+	"penolakan_id": "27"
+}
+, {
+	"angka_kredit_id": "37",
+	"penolakan_id": "28"
+}
+, {
+	"angka_kredit_id": "37",
+	"penolakan_id": "29"
+}
+, {
+	"angka_kredit_id": "37",
+	"penolakan_id": "30"
+}
+, {
+	"angka_kredit_id": "37",
+	"penolakan_id": "58"
+}
+, {
+	"angka_kredit_id": "37",
+	"penolakan_id": "59"
+}
+, {
+	"angka_kredit_id": "37",
+	"penolakan_id": "60"
+}
+, {
+	"angka_kredit_id": "37",
+	"penolakan_id": "73"
+}
+, {
+	"angka_kredit_id": "37",
+	"penolakan_id": "74"
+}
+, {
+	"angka_kredit_id": "37",
+	"penolakan_id": "75"
+}
+, {
+	"angka_kredit_id": "37",
+	"penolakan_id": "76"
+}
+, {
+	"angka_kredit_id": "38",
+	"penolakan_id": "16"
+}
+, {
+	"angka_kredit_id": "38",
+	"penolakan_id": "17"
+}
+, {
+	"angka_kredit_id": "38",
+	"penolakan_id": "18"
+}
+, {
+	"angka_kredit_id": "38",
+	"penolakan_id": "19"
+}
+, {
+	"angka_kredit_id": "38",
+	"penolakan_id": "20"
+}
+, {
+	"angka_kredit_id": "38",
+	"penolakan_id": "21"
+}
+, {
+	"angka_kredit_id": "38",
+	"penolakan_id": "22"
+}
+, {
+	"angka_kredit_id": "38",
+	"penolakan_id": "23"
+}
+, {
+	"angka_kredit_id": "38",
+	"penolakan_id": "24"
+}
+, {
+	"angka_kredit_id": "38",
+	"penolakan_id": "25"
+}
+, {
+	"angka_kredit_id": "38",
+	"penolakan_id": "26"
+}
+, {
+	"angka_kredit_id": "38",
+	"penolakan_id": "27"
+}
+, {
+	"angka_kredit_id": "38",
+	"penolakan_id": "28"
+}
+, {
+	"angka_kredit_id": "38",
+	"penolakan_id": "29"
+}
+, {
+	"angka_kredit_id": "38",
+	"penolakan_id": "30"
+}
+, {
+	"angka_kredit_id": "38",
+	"penolakan_id": "58"
+}
+, {
+	"angka_kredit_id": "38",
+	"penolakan_id": "59"
+}
+, {
+	"angka_kredit_id": "38",
+	"penolakan_id": "60"
+}
+, {
+	"angka_kredit_id": "38",
+	"penolakan_id": "73"
+}
+, {
+	"angka_kredit_id": "38",
+	"penolakan_id": "74"
+}
+, {
+	"angka_kredit_id": "38",
+	"penolakan_id": "75"
+}
+, {
+	"angka_kredit_id": "38",
+	"penolakan_id": "76"
+}
+, {
+	"angka_kredit_id": "39",
+	"penolakan_id": "16"
+}
+, {
+	"angka_kredit_id": "39",
+	"penolakan_id": "17"
+}
+, {
+	"angka_kredit_id": "39",
+	"penolakan_id": "18"
+}
+, {
+	"angka_kredit_id": "39",
+	"penolakan_id": "19"
+}
+, {
+	"angka_kredit_id": "39",
+	"penolakan_id": "20"
+}
+, {
+	"angka_kredit_id": "39",
+	"penolakan_id": "21"
+}
+, {
+	"angka_kredit_id": "39",
+	"penolakan_id": "22"
+}
+, {
+	"angka_kredit_id": "39",
+	"penolakan_id": "23"
+}
+, {
+	"angka_kredit_id": "39",
+	"penolakan_id": "24"
+}
+, {
+	"angka_kredit_id": "39",
+	"penolakan_id": "25"
+}
+, {
+	"angka_kredit_id": "39",
+	"penolakan_id": "26"
+}
+, {
+	"angka_kredit_id": "39",
+	"penolakan_id": "27"
+}
+, {
+	"angka_kredit_id": "39",
+	"penolakan_id": "28"
+}
+, {
+	"angka_kredit_id": "39",
+	"penolakan_id": "29"
+}
+, {
+	"angka_kredit_id": "39",
+	"penolakan_id": "30"
+}
+, {
+	"angka_kredit_id": "39",
+	"penolakan_id": "61"
+}
+, {
+	"angka_kredit_id": "39",
+	"penolakan_id": "62"
+}
+, {
+	"angka_kredit_id": "39",
+	"penolakan_id": "73"
+}
+, {
+	"angka_kredit_id": "39",
+	"penolakan_id": "74"
+}
+, {
+	"angka_kredit_id": "39",
+	"penolakan_id": "75"
+}
+, {
+	"angka_kredit_id": "39",
+	"penolakan_id": "76"
+}
+, {
+	"angka_kredit_id": "40",
+	"penolakan_id": "16"
+}
+, {
+	"angka_kredit_id": "40",
+	"penolakan_id": "17"
+}
+, {
+	"angka_kredit_id": "40",
+	"penolakan_id": "18"
+}
+, {
+	"angka_kredit_id": "40",
+	"penolakan_id": "19"
+}
+, {
+	"angka_kredit_id": "40",
+	"penolakan_id": "20"
+}
+, {
+	"angka_kredit_id": "40",
+	"penolakan_id": "21"
+}
+, {
+	"angka_kredit_id": "40",
+	"penolakan_id": "22"
+}
+, {
+	"angka_kredit_id": "40",
+	"penolakan_id": "23"
+}
+, {
+	"angka_kredit_id": "40",
+	"penolakan_id": "24"
+}
+, {
+	"angka_kredit_id": "40",
+	"penolakan_id": "25"
+}
+, {
+	"angka_kredit_id": "40",
+	"penolakan_id": "26"
+}
+, {
+	"angka_kredit_id": "40",
+	"penolakan_id": "27"
+}
+, {
+	"angka_kredit_id": "40",
+	"penolakan_id": "28"
+}
+, {
+	"angka_kredit_id": "40",
+	"penolakan_id": "29"
+}
+, {
+	"angka_kredit_id": "40",
+	"penolakan_id": "30"
+}
+, {
+	"angka_kredit_id": "40",
+	"penolakan_id": "61"
+}
+, {
+	"angka_kredit_id": "40",
+	"penolakan_id": "62"
+}
+, {
+	"angka_kredit_id": "40",
+	"penolakan_id": "73"
+}
+, {
+	"angka_kredit_id": "40",
+	"penolakan_id": "74"
+}
+, {
+	"angka_kredit_id": "40",
+	"penolakan_id": "75"
+}
+, {
+	"angka_kredit_id": "40",
+	"penolakan_id": "76"
+}
+, {
+	"angka_kredit_id": "41",
+	"penolakan_id": "16"
+}
+, {
+	"angka_kredit_id": "41",
+	"penolakan_id": "17"
+}
+, {
+	"angka_kredit_id": "41",
+	"penolakan_id": "18"
+}
+, {
+	"angka_kredit_id": "41",
+	"penolakan_id": "19"
+}
+, {
+	"angka_kredit_id": "41",
+	"penolakan_id": "20"
+}
+, {
+	"angka_kredit_id": "41",
+	"penolakan_id": "21"
+}
+, {
+	"angka_kredit_id": "41",
+	"penolakan_id": "22"
+}
+, {
+	"angka_kredit_id": "41",
+	"penolakan_id": "23"
+}
+, {
+	"angka_kredit_id": "41",
+	"penolakan_id": "24"
+}
+, {
+	"angka_kredit_id": "41",
+	"penolakan_id": "25"
+}
+, {
+	"angka_kredit_id": "41",
+	"penolakan_id": "26"
+}
+, {
+	"angka_kredit_id": "41",
+	"penolakan_id": "27"
+}
+, {
+	"angka_kredit_id": "41",
+	"penolakan_id": "28"
+}
+, {
+	"angka_kredit_id": "41",
+	"penolakan_id": "29"
+}
+, {
+	"angka_kredit_id": "41",
+	"penolakan_id": "30"
+}
+, {
+	"angka_kredit_id": "41",
+	"penolakan_id": "61"
+}
+, {
+	"angka_kredit_id": "41",
+	"penolakan_id": "62"
+}
+, {
+	"angka_kredit_id": "41",
+	"penolakan_id": "73"
+}
+, {
+	"angka_kredit_id": "41",
+	"penolakan_id": "74"
+}
+, {
+	"angka_kredit_id": "41",
+	"penolakan_id": "75"
+}
+, {
+	"angka_kredit_id": "41",
+	"penolakan_id": "76"
+}
+, {
+	"angka_kredit_id": "42",
+	"penolakan_id": "16"
+}
+, {
+	"angka_kredit_id": "42",
+	"penolakan_id": "17"
+}
+, {
+	"angka_kredit_id": "42",
+	"penolakan_id": "18"
+}
+, {
+	"angka_kredit_id": "42",
+	"penolakan_id": "19"
+}
+, {
+	"angka_kredit_id": "42",
+	"penolakan_id": "20"
+}
+, {
+	"angka_kredit_id": "42",
+	"penolakan_id": "21"
+}
+, {
+	"angka_kredit_id": "42",
+	"penolakan_id": "22"
+}
+, {
+	"angka_kredit_id": "42",
+	"penolakan_id": "23"
+}
+, {
+	"angka_kredit_id": "42",
+	"penolakan_id": "24"
+}
+, {
+	"angka_kredit_id": "42",
+	"penolakan_id": "25"
+}
+, {
+	"angka_kredit_id": "42",
+	"penolakan_id": "26"
+}
+, {
+	"angka_kredit_id": "42",
+	"penolakan_id": "27"
+}
+, {
+	"angka_kredit_id": "42",
+	"penolakan_id": "28"
+}
+, {
+	"angka_kredit_id": "42",
+	"penolakan_id": "29"
+}
+, {
+	"angka_kredit_id": "42",
+	"penolakan_id": "30"
+}
+, {
+	"angka_kredit_id": "42",
+	"penolakan_id": "63"
+}
+, {
+	"angka_kredit_id": "42",
+	"penolakan_id": "64"
+}
+, {
+	"angka_kredit_id": "42",
+	"penolakan_id": "73"
+}
+, {
+	"angka_kredit_id": "42",
+	"penolakan_id": "74"
+}
+, {
+	"angka_kredit_id": "42",
+	"penolakan_id": "75"
+}
+, {
+	"angka_kredit_id": "42",
+	"penolakan_id": "76"
+}
+, {
+	"angka_kredit_id": "43",
+	"penolakan_id": "16"
+}
+, {
+	"angka_kredit_id": "43",
+	"penolakan_id": "17"
+}
+, {
+	"angka_kredit_id": "43",
+	"penolakan_id": "18"
+}
+, {
+	"angka_kredit_id": "43",
+	"penolakan_id": "19"
+}
+, {
+	"angka_kredit_id": "43",
+	"penolakan_id": "20"
+}
+, {
+	"angka_kredit_id": "43",
+	"penolakan_id": "21"
+}
+, {
+	"angka_kredit_id": "43",
+	"penolakan_id": "22"
+}
+, {
+	"angka_kredit_id": "43",
+	"penolakan_id": "23"
+}
+, {
+	"angka_kredit_id": "43",
+	"penolakan_id": "24"
+}
+, {
+	"angka_kredit_id": "43",
+	"penolakan_id": "25"
+}
+, {
+	"angka_kredit_id": "43",
+	"penolakan_id": "26"
+}
+, {
+	"angka_kredit_id": "43",
+	"penolakan_id": "27"
+}
+, {
+	"angka_kredit_id": "43",
+	"penolakan_id": "28"
+}
+, {
+	"angka_kredit_id": "43",
+	"penolakan_id": "29"
+}
+, {
+	"angka_kredit_id": "43",
+	"penolakan_id": "30"
+}
+, {
+	"angka_kredit_id": "43",
+	"penolakan_id": "63"
+}
+, {
+	"angka_kredit_id": "43",
+	"penolakan_id": "64"
+}
+, {
+	"angka_kredit_id": "43",
+	"penolakan_id": "73"
+}
+, {
+	"angka_kredit_id": "43",
+	"penolakan_id": "74"
+}
+, {
+	"angka_kredit_id": "43",
+	"penolakan_id": "75"
+}
+, {
+	"angka_kredit_id": "43",
+	"penolakan_id": "76"
+}
+, {
+	"angka_kredit_id": "44",
+	"penolakan_id": "16"
+}
+, {
+	"angka_kredit_id": "44",
+	"penolakan_id": "17"
+}
+, {
+	"angka_kredit_id": "44",
+	"penolakan_id": "18"
+}
+, {
+	"angka_kredit_id": "44",
+	"penolakan_id": "19"
+}
+, {
+	"angka_kredit_id": "44",
+	"penolakan_id": "20"
+}
+, {
+	"angka_kredit_id": "44",
+	"penolakan_id": "21"
+}
+, {
+	"angka_kredit_id": "44",
+	"penolakan_id": "22"
+}
+, {
+	"angka_kredit_id": "44",
+	"penolakan_id": "23"
+}
+, {
+	"angka_kredit_id": "44",
+	"penolakan_id": "24"
+}
+, {
+	"angka_kredit_id": "44",
+	"penolakan_id": "25"
+}
+, {
+	"angka_kredit_id": "44",
+	"penolakan_id": "26"
+}
+, {
+	"angka_kredit_id": "44",
+	"penolakan_id": "27"
+}
+, {
+	"angka_kredit_id": "44",
+	"penolakan_id": "28"
+}
+, {
+	"angka_kredit_id": "44",
+	"penolakan_id": "29"
+}
+, {
+	"angka_kredit_id": "44",
+	"penolakan_id": "30"
+}
+, {
+	"angka_kredit_id": "44",
+	"penolakan_id": "63"
+}
+, {
+	"angka_kredit_id": "44",
+	"penolakan_id": "64"
+}
+, {
+	"angka_kredit_id": "44",
+	"penolakan_id": "73"
+}
+, {
+	"angka_kredit_id": "44",
+	"penolakan_id": "74"
+}
+, {
+	"angka_kredit_id": "44",
+	"penolakan_id": "75"
+}
+, {
+	"angka_kredit_id": "44",
+	"penolakan_id": "76"
+}
+, {
+	"angka_kredit_id": "45",
+	"penolakan_id": "16"
+}
+, {
+	"angka_kredit_id": "45",
+	"penolakan_id": "17"
+}
+, {
+	"angka_kredit_id": "45",
+	"penolakan_id": "18"
+}
+, {
+	"angka_kredit_id": "45",
+	"penolakan_id": "19"
+}
+, {
+	"angka_kredit_id": "45",
+	"penolakan_id": "20"
+}
+, {
+	"angka_kredit_id": "45",
+	"penolakan_id": "21"
+}
+, {
+	"angka_kredit_id": "45",
+	"penolakan_id": "22"
+}
+, {
+	"angka_kredit_id": "45",
+	"penolakan_id": "23"
+}
+, {
+	"angka_kredit_id": "45",
+	"penolakan_id": "24"
+}
+, {
+	"angka_kredit_id": "45",
+	"penolakan_id": "25"
+}
+, {
+	"angka_kredit_id": "45",
+	"penolakan_id": "26"
+}
+, {
+	"angka_kredit_id": "45",
+	"penolakan_id": "27"
+}
+, {
+	"angka_kredit_id": "45",
+	"penolakan_id": "28"
+}
+, {
+	"angka_kredit_id": "45",
+	"penolakan_id": "29"
+}
+, {
+	"angka_kredit_id": "45",
+	"penolakan_id": "30"
+}
+, {
+	"angka_kredit_id": "45",
+	"penolakan_id": "65"
+}
+, {
+	"angka_kredit_id": "45",
+	"penolakan_id": "66"
+}
+, {
+	"angka_kredit_id": "45",
+	"penolakan_id": "73"
+}
+, {
+	"angka_kredit_id": "45",
+	"penolakan_id": "74"
+}
+, {
+	"angka_kredit_id": "45",
+	"penolakan_id": "75"
+}
+, {
+	"angka_kredit_id": "45",
+	"penolakan_id": "76"
+}
+, {
+	"angka_kredit_id": "46",
+	"penolakan_id": "16"
+}
+, {
+	"angka_kredit_id": "46",
+	"penolakan_id": "17"
+}
+, {
+	"angka_kredit_id": "46",
+	"penolakan_id": "18"
+}
+, {
+	"angka_kredit_id": "46",
+	"penolakan_id": "19"
+}
+, {
+	"angka_kredit_id": "46",
+	"penolakan_id": "20"
+}
+, {
+	"angka_kredit_id": "46",
+	"penolakan_id": "21"
+}
+, {
+	"angka_kredit_id": "46",
+	"penolakan_id": "22"
+}
+, {
+	"angka_kredit_id": "46",
+	"penolakan_id": "23"
+}
+, {
+	"angka_kredit_id": "46",
+	"penolakan_id": "24"
+}
+, {
+	"angka_kredit_id": "46",
+	"penolakan_id": "25"
+}
+, {
+	"angka_kredit_id": "46",
+	"penolakan_id": "26"
+}
+, {
+	"angka_kredit_id": "46",
+	"penolakan_id": "27"
+}
+, {
+	"angka_kredit_id": "46",
+	"penolakan_id": "28"
+}
+, {
+	"angka_kredit_id": "46",
+	"penolakan_id": "29"
+}
+, {
+	"angka_kredit_id": "46",
+	"penolakan_id": "30"
+}
+, {
+	"angka_kredit_id": "46",
+	"penolakan_id": "65"
+}
+, {
+	"angka_kredit_id": "46",
+	"penolakan_id": "66"
+}
+, {
+	"angka_kredit_id": "46",
+	"penolakan_id": "73"
+}
+, {
+	"angka_kredit_id": "46",
+	"penolakan_id": "74"
+}
+, {
+	"angka_kredit_id": "46",
+	"penolakan_id": "75"
+}
+, {
+	"angka_kredit_id": "46",
+	"penolakan_id": "76"
+}
+, {
+	"angka_kredit_id": "47",
+	"penolakan_id": "16"
+}
+, {
+	"angka_kredit_id": "47",
+	"penolakan_id": "17"
+}
+, {
+	"angka_kredit_id": "47",
+	"penolakan_id": "18"
+}
+, {
+	"angka_kredit_id": "47",
+	"penolakan_id": "19"
+}
+, {
+	"angka_kredit_id": "47",
+	"penolakan_id": "20"
+}
+, {
+	"angka_kredit_id": "47",
+	"penolakan_id": "21"
+}
+, {
+	"angka_kredit_id": "47",
+	"penolakan_id": "22"
+}
+, {
+	"angka_kredit_id": "47",
+	"penolakan_id": "23"
+}
+, {
+	"angka_kredit_id": "47",
+	"penolakan_id": "24"
+}
+, {
+	"angka_kredit_id": "47",
+	"penolakan_id": "25"
+}
+, {
+	"angka_kredit_id": "47",
+	"penolakan_id": "26"
+}
+, {
+	"angka_kredit_id": "47",
+	"penolakan_id": "27"
+}
+, {
+	"angka_kredit_id": "47",
+	"penolakan_id": "28"
+}
+, {
+	"angka_kredit_id": "47",
+	"penolakan_id": "29"
+}
+, {
+	"angka_kredit_id": "47",
+	"penolakan_id": "30"
+}
+, {
+	"angka_kredit_id": "47",
+	"penolakan_id": "65"
+}
+, {
+	"angka_kredit_id": "47",
+	"penolakan_id": "66"
+}
+, {
+	"angka_kredit_id": "47",
+	"penolakan_id": "73"
+}
+, {
+	"angka_kredit_id": "47",
+	"penolakan_id": "74"
+}
+, {
+	"angka_kredit_id": "47",
+	"penolakan_id": "75"
+}
+, {
+	"angka_kredit_id": "47",
+	"penolakan_id": "76"
+}
+, {
+	"angka_kredit_id": "48",
+	"penolakan_id": "16"
+}
+, {
+	"angka_kredit_id": "48",
+	"penolakan_id": "17"
+}
+, {
+	"angka_kredit_id": "48",
+	"penolakan_id": "18"
+}
+, {
+	"angka_kredit_id": "48",
+	"penolakan_id": "19"
+}
+, {
+	"angka_kredit_id": "48",
+	"penolakan_id": "20"
+}
+, {
+	"angka_kredit_id": "48",
+	"penolakan_id": "21"
+}
+, {
+	"angka_kredit_id": "48",
+	"penolakan_id": "22"
+}
+, {
+	"angka_kredit_id": "48",
+	"penolakan_id": "23"
+}
+, {
+	"angka_kredit_id": "48",
+	"penolakan_id": "24"
+}
+, {
+	"angka_kredit_id": "48",
+	"penolakan_id": "25"
+}
+, {
+	"angka_kredit_id": "48",
+	"penolakan_id": "26"
+}
+, {
+	"angka_kredit_id": "48",
+	"penolakan_id": "27"
+}
+, {
+	"angka_kredit_id": "48",
+	"penolakan_id": "28"
+}
+, {
+	"angka_kredit_id": "48",
+	"penolakan_id": "29"
+}
+, {
+	"angka_kredit_id": "48",
+	"penolakan_id": "30"
+}
+, {
+	"angka_kredit_id": "48",
+	"penolakan_id": "67"
+}
+, {
+	"angka_kredit_id": "48",
+	"penolakan_id": "68"
+}
+, {
+	"angka_kredit_id": "48",
+	"penolakan_id": "73"
+}
+, {
+	"angka_kredit_id": "48",
+	"penolakan_id": "74"
+}
+, {
+	"angka_kredit_id": "48",
+	"penolakan_id": "75"
+}
+, {
+	"angka_kredit_id": "48",
+	"penolakan_id": "76"
+}
+, {
+	"angka_kredit_id": "49",
+	"penolakan_id": "16"
+}
+, {
+	"angka_kredit_id": "49",
+	"penolakan_id": "17"
+}
+, {
+	"angka_kredit_id": "49",
+	"penolakan_id": "18"
+}
+, {
+	"angka_kredit_id": "49",
+	"penolakan_id": "19"
+}
+, {
+	"angka_kredit_id": "49",
+	"penolakan_id": "20"
+}
+, {
+	"angka_kredit_id": "49",
+	"penolakan_id": "21"
+}
+, {
+	"angka_kredit_id": "49",
+	"penolakan_id": "22"
+}
+, {
+	"angka_kredit_id": "49",
+	"penolakan_id": "23"
+}
+, {
+	"angka_kredit_id": "49",
+	"penolakan_id": "24"
+}
+, {
+	"angka_kredit_id": "49",
+	"penolakan_id": "25"
+}
+, {
+	"angka_kredit_id": "49",
+	"penolakan_id": "26"
+}
+, {
+	"angka_kredit_id": "49",
+	"penolakan_id": "27"
+}
+, {
+	"angka_kredit_id": "49",
+	"penolakan_id": "28"
+}
+, {
+	"angka_kredit_id": "49",
+	"penolakan_id": "29"
+}
+, {
+	"angka_kredit_id": "49",
+	"penolakan_id": "30"
+}
+, {
+	"angka_kredit_id": "49",
+	"penolakan_id": "67"
+}
+, {
+	"angka_kredit_id": "49",
+	"penolakan_id": "68"
+}
+, {
+	"angka_kredit_id": "49",
+	"penolakan_id": "73"
+}
+, {
+	"angka_kredit_id": "49",
+	"penolakan_id": "74"
+}
+, {
+	"angka_kredit_id": "49",
+	"penolakan_id": "75"
+}
+, {
+	"angka_kredit_id": "49",
+	"penolakan_id": "76"
+}
+, {
+	"angka_kredit_id": "50",
+	"penolakan_id": "16"
+}
+, {
+	"angka_kredit_id": "50",
+	"penolakan_id": "17"
+}
+, {
+	"angka_kredit_id": "50",
+	"penolakan_id": "18"
+}
+, {
+	"angka_kredit_id": "50",
+	"penolakan_id": "19"
+}
+, {
+	"angka_kredit_id": "50",
+	"penolakan_id": "20"
+}
+, {
+	"angka_kredit_id": "50",
+	"penolakan_id": "21"
+}
+, {
+	"angka_kredit_id": "50",
+	"penolakan_id": "22"
+}
+, {
+	"angka_kredit_id": "50",
+	"penolakan_id": "23"
+}
+, {
+	"angka_kredit_id": "50",
+	"penolakan_id": "24"
+}
+, {
+	"angka_kredit_id": "50",
+	"penolakan_id": "25"
+}
+, {
+	"angka_kredit_id": "50",
+	"penolakan_id": "26"
+}
+, {
+	"angka_kredit_id": "50",
+	"penolakan_id": "27"
+}
+, {
+	"angka_kredit_id": "50",
+	"penolakan_id": "28"
+}
+, {
+	"angka_kredit_id": "50",
+	"penolakan_id": "29"
+}
+, {
+	"angka_kredit_id": "50",
+	"penolakan_id": "30"
+}
+, {
+	"angka_kredit_id": "50",
+	"penolakan_id": "69"
+}
+, {
+	"angka_kredit_id": "50",
+	"penolakan_id": "70"
+}
+, {
+	"angka_kredit_id": "50",
+	"penolakan_id": "73"
+}
+, {
+	"angka_kredit_id": "50",
+	"penolakan_id": "74"
+}
+, {
+	"angka_kredit_id": "50",
+	"penolakan_id": "75"
+}
+, {
+	"angka_kredit_id": "50",
+	"penolakan_id": "76"
+}
+, {
+	"angka_kredit_id": "51",
+	"penolakan_id": "16"
+}
+, {
+	"angka_kredit_id": "51",
+	"penolakan_id": "17"
+}
+, {
+	"angka_kredit_id": "51",
+	"penolakan_id": "18"
+}
+, {
+	"angka_kredit_id": "51",
+	"penolakan_id": "19"
+}
+, {
+	"angka_kredit_id": "51",
+	"penolakan_id": "20"
+}
+, {
+	"angka_kredit_id": "51",
+	"penolakan_id": "21"
+}
+, {
+	"angka_kredit_id": "51",
+	"penolakan_id": "22"
+}
+, {
+	"angka_kredit_id": "51",
+	"penolakan_id": "23"
+}
+, {
+	"angka_kredit_id": "51",
+	"penolakan_id": "24"
+}
+, {
+	"angka_kredit_id": "51",
+	"penolakan_id": "25"
+}
+, {
+	"angka_kredit_id": "51",
+	"penolakan_id": "26"
+}
+, {
+	"angka_kredit_id": "51",
+	"penolakan_id": "27"
+}
+, {
+	"angka_kredit_id": "51",
+	"penolakan_id": "28"
+}
+, {
+	"angka_kredit_id": "51",
+	"penolakan_id": "29"
+}
+, {
+	"angka_kredit_id": "51",
+	"penolakan_id": "30"
+}
+, {
+	"angka_kredit_id": "51",
+	"penolakan_id": "71"
+}
+, {
+	"angka_kredit_id": "51",
+	"penolakan_id": "72"
+}
+, {
+	"angka_kredit_id": "51",
+	"penolakan_id": "73"
+}
+, {
+	"angka_kredit_id": "51",
+	"penolakan_id": "74"
+}
+, {
+	"angka_kredit_id": "51",
+	"penolakan_id": "75"
+}
+, {
+	"angka_kredit_id": "51",
+	"penolakan_id": "76"
+}
+, {
+	"angka_kredit_id": "52",
+	"penolakan_id": "77"
+}
+, {
+	"angka_kredit_id": "52",
+	"penolakan_id": "78"
+}
+, {
+	"angka_kredit_id": "52",
+	"penolakan_id": "79"
+}
+, {
+	"angka_kredit_id": "52",
+	"penolakan_id": "80"
+}
+, {
+	"angka_kredit_id": "52",
+	"penolakan_id": "81"
+}
+, {
+	"angka_kredit_id": "52",
+	"penolakan_id": "82"
+}
+, {
+	"angka_kredit_id": "52",
+	"penolakan_id": "83"
+}
+, {
+	"angka_kredit_id": "52",
+	"penolakan_id": "84"
+}
+, {
+	"angka_kredit_id": "52",
+	"penolakan_id": "85"
+}
+, {
+	"angka_kredit_id": "52",
+	"penolakan_id": "86"
+}
+, {
+	"angka_kredit_id": "52",
+	"penolakan_id": "87"
+}
+, {
+	"angka_kredit_id": "52",
+	"penolakan_id": "88"
+}
+, {
+	"angka_kredit_id": "53",
+	"penolakan_id": "77"
+}
+, {
+	"angka_kredit_id": "53",
+	"penolakan_id": "78"
+}
+, {
+	"angka_kredit_id": "53",
+	"penolakan_id": "79"
+}
+, {
+	"angka_kredit_id": "53",
+	"penolakan_id": "80"
+}
+, {
+	"angka_kredit_id": "53",
+	"penolakan_id": "81"
+}
+, {
+	"angka_kredit_id": "53",
+	"penolakan_id": "82"
+}
+, {
+	"angka_kredit_id": "53",
+	"penolakan_id": "83"
+}
+, {
+	"angka_kredit_id": "53",
+	"penolakan_id": "84"
+}
+, {
+	"angka_kredit_id": "53",
+	"penolakan_id": "85"
+}
+, {
+	"angka_kredit_id": "53",
+	"penolakan_id": "86"
+}
+, {
+	"angka_kredit_id": "53",
+	"penolakan_id": "87"
+}
+, {
+	"angka_kredit_id": "53",
+	"penolakan_id": "88"
+}
+, {
+	"angka_kredit_id": "54",
+	"penolakan_id": "89"
+}
+, {
+	"angka_kredit_id": "54",
+	"penolakan_id": "90"
+}
+, {
+	"angka_kredit_id": "54",
+	"penolakan_id": "91"
+}
+, {
+	"angka_kredit_id": "54",
+	"penolakan_id": "92"
+}
+, {
+	"angka_kredit_id": "54",
+	"penolakan_id": "93"
+}
+, {
+	"angka_kredit_id": "54",
+	"penolakan_id": "94"
+}
+, {
+	"angka_kredit_id": "54",
+	"penolakan_id": "95"
+}
+, {
+	"angka_kredit_id": "54",
+	"penolakan_id": "96"
+}
+, {
+	"angka_kredit_id": "54",
+	"penolakan_id": "97"
+}
+, {
+	"angka_kredit_id": "54",
+	"penolakan_id": "98"
+}
+, {
+	"angka_kredit_id": "54",
+	"penolakan_id": "99"
+}
+, {
+	"angka_kredit_id": "54",
+	"penolakan_id": "100"
+}
+, {
+	"angka_kredit_id": "54",
+	"penolakan_id": "101"
+}
+, {
+	"angka_kredit_id": "54",
+	"penolakan_id": "102"
+}
+, {
+	"angka_kredit_id": "54",
+	"penolakan_id": "103"
+}
+, {
+	"angka_kredit_id": "54",
+	"penolakan_id": "104"
+}
+, {
+	"angka_kredit_id": "54",
+	"penolakan_id": "105"
+}
+, {
+	"angka_kredit_id": "55",
+	"penolakan_id": "89"
+}
+, {
+	"angka_kredit_id": "55",
+	"penolakan_id": "90"
+}
+, {
+	"angka_kredit_id": "55",
+	"penolakan_id": "91"
+}
+, {
+	"angka_kredit_id": "55",
+	"penolakan_id": "92"
+}
+, {
+	"angka_kredit_id": "55",
+	"penolakan_id": "93"
+}
+, {
+	"angka_kredit_id": "55",
+	"penolakan_id": "94"
+}
+, {
+	"angka_kredit_id": "55",
+	"penolakan_id": "95"
+}
+, {
+	"angka_kredit_id": "55",
+	"penolakan_id": "96"
+}
+, {
+	"angka_kredit_id": "55",
+	"penolakan_id": "97"
+}
+, {
+	"angka_kredit_id": "55",
+	"penolakan_id": "98"
+}
+, {
+	"angka_kredit_id": "55",
+	"penolakan_id": "99"
+}
+, {
+	"angka_kredit_id": "55",
+	"penolakan_id": "100"
+}
+, {
+	"angka_kredit_id": "55",
+	"penolakan_id": "101"
+}
+, {
+	"angka_kredit_id": "55",
+	"penolakan_id": "102"
+}
+, {
+	"angka_kredit_id": "55",
+	"penolakan_id": "103"
+}
+, {
+	"angka_kredit_id": "55",
+	"penolakan_id": "104"
+}
+, {
+	"angka_kredit_id": "55",
+	"penolakan_id": "105"
+}
+, {
+	"angka_kredit_id": "56",
+	"penolakan_id": "90"
+}
+, {
+	"angka_kredit_id": "56",
+	"penolakan_id": "91"
+}
+, {
+	"angka_kredit_id": "56",
+	"penolakan_id": "92"
+}
+, {
+	"angka_kredit_id": "56",
+	"penolakan_id": "93"
+}
+, {
+	"angka_kredit_id": "56",
+	"penolakan_id": "94"
+}
+, {
+	"angka_kredit_id": "56",
+	"penolakan_id": "95"
+}
+, {
+	"angka_kredit_id": "56",
+	"penolakan_id": "96"
+}
+, {
+	"angka_kredit_id": "56",
+	"penolakan_id": "97"
+}
+, {
+	"angka_kredit_id": "56",
+	"penolakan_id": "98"
+}
+, {
+	"angka_kredit_id": "56",
+	"penolakan_id": "99"
+}
+, {
+	"angka_kredit_id": "56",
+	"penolakan_id": "100"
+}
+, {
+	"angka_kredit_id": "56",
+	"penolakan_id": "101"
+}
+, {
+	"angka_kredit_id": "56",
+	"penolakan_id": "102"
+}
+, {
+	"angka_kredit_id": "56",
+	"penolakan_id": "103"
+}
+, {
+	"angka_kredit_id": "56",
+	"penolakan_id": "104"
+}
+, {
+	"angka_kredit_id": "56",
+	"penolakan_id": "105"
+}
+, {
+	"angka_kredit_id": "57",
+	"penolakan_id": "91"
+}
+, {
+	"angka_kredit_id": "57",
+	"penolakan_id": "92"
+}
+, {
+	"angka_kredit_id": "57",
+	"penolakan_id": "93"
+}
+, {
+	"angka_kredit_id": "57",
+	"penolakan_id": "94"
+}
+, {
+	"angka_kredit_id": "57",
+	"penolakan_id": "95"
+}
+, {
+	"angka_kredit_id": "57",
+	"penolakan_id": "96"
+}
+, {
+	"angka_kredit_id": "57",
+	"penolakan_id": "97"
+}
+, {
+	"angka_kredit_id": "57",
+	"penolakan_id": "98"
+}
+, {
+	"angka_kredit_id": "57",
+	"penolakan_id": "99"
+}
+, {
+	"angka_kredit_id": "57",
+	"penolakan_id": "100"
+}
+, {
+	"angka_kredit_id": "57",
+	"penolakan_id": "101"
+}
+, {
+	"angka_kredit_id": "57",
+	"penolakan_id": "102"
+}
+, {
+	"angka_kredit_id": "57",
+	"penolakan_id": "103"
+}
+, {
+	"angka_kredit_id": "57",
+	"penolakan_id": "104"
+}
+, {
+	"angka_kredit_id": "57",
+	"penolakan_id": "105"
+}
+, {
+	"angka_kredit_id": "58",
+	"penolakan_id": "106"
+}
+, {
+	"angka_kredit_id": "58",
+	"penolakan_id": "107"
+}
+, {
+	"angka_kredit_id": "58",
+	"penolakan_id": "108"
+}
+, {
+	"angka_kredit_id": "58",
+	"penolakan_id": "109"
+}
+, {
+	"angka_kredit_id": "58",
+	"penolakan_id": "110"
+}
+, {
+	"angka_kredit_id": "58",
+	"penolakan_id": "111"
+}
+, {
+	"angka_kredit_id": "58",
+	"penolakan_id": "112"
+}
+, {
+	"angka_kredit_id": "58",
+	"penolakan_id": "113"
+}
+, {
+	"angka_kredit_id": "58",
+	"penolakan_id": "114"
+}
+, {
+	"angka_kredit_id": "58",
+	"penolakan_id": "115"
+}
+, {
+	"angka_kredit_id": "58",
+	"penolakan_id": "116"
+}
+, {
+	"angka_kredit_id": "59",
+	"penolakan_id": "106"
+}
+, {
+	"angka_kredit_id": "59",
+	"penolakan_id": "107"
+}
+, {
+	"angka_kredit_id": "59",
+	"penolakan_id": "108"
+}
+, {
+	"angka_kredit_id": "59",
+	"penolakan_id": "109"
+}
+, {
+	"angka_kredit_id": "59",
+	"penolakan_id": "110"
+}
+, {
+	"angka_kredit_id": "59",
+	"penolakan_id": "111"
+}
+, {
+	"angka_kredit_id": "59",
+	"penolakan_id": "112"
+}
+, {
+	"angka_kredit_id": "59",
+	"penolakan_id": "113"
+}
+, {
+	"angka_kredit_id": "59",
+	"penolakan_id": "114"
+}
+, {
+	"angka_kredit_id": "59",
+	"penolakan_id": "115"
+}
+, {
+	"angka_kredit_id": "59",
+	"penolakan_id": "116"
+}
+, {
+	"angka_kredit_id": "60",
+	"penolakan_id": "117"
+}
+, {
+	"angka_kredit_id": "60",
+	"penolakan_id": "118"
+}
+, {
+	"angka_kredit_id": "60",
+	"penolakan_id": "119"
+}
+, {
+	"angka_kredit_id": "60",
+	"penolakan_id": "120"
+}
+, {
+	"angka_kredit_id": "60",
+	"penolakan_id": "121"
+}
+, {
+	"angka_kredit_id": "60",
+	"penolakan_id": "122"
+}
+, {
+	"angka_kredit_id": "60",
+	"penolakan_id": "123"
+}
+, {
+	"angka_kredit_id": "60",
+	"penolakan_id": "124"
+}
+, {
+	"angka_kredit_id": "60",
+	"penolakan_id": "125"
+}
+, {
+	"angka_kredit_id": "61",
+	"penolakan_id": "117"
+}
+, {
+	"angka_kredit_id": "61",
+	"penolakan_id": "118"
+}
+, {
+	"angka_kredit_id": "61",
+	"penolakan_id": "119"
+}
+, {
+	"angka_kredit_id": "61",
+	"penolakan_id": "120"
+}
+, {
+	"angka_kredit_id": "61",
+	"penolakan_id": "121"
+}
+, {
+	"angka_kredit_id": "61",
+	"penolakan_id": "122"
+}
+, {
+	"angka_kredit_id": "61",
+	"penolakan_id": "123"
+}
+, {
+	"angka_kredit_id": "61",
+	"penolakan_id": "124"
+}
+, {
+	"angka_kredit_id": "61",
+	"penolakan_id": "125"
+}
+, {
+	"angka_kredit_id": "62",
+	"penolakan_id": "126"
+}
+, {
+	"angka_kredit_id": "62",
+	"penolakan_id": "127"
+}
+, {
+	"angka_kredit_id": "62",
+	"penolakan_id": "128"
+}
+, {
+	"angka_kredit_id": "62",
+	"penolakan_id": "129"
+}
+, {
+	"angka_kredit_id": "63",
+	"penolakan_id": "126"
+}
+, {
+	"angka_kredit_id": "63",
+	"penolakan_id": "127"
+}
+, {
+	"angka_kredit_id": "63",
+	"penolakan_id": "128"
+}
+, {
+	"angka_kredit_id": "63",
+	"penolakan_id": "129"
+}
+]}

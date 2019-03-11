@@ -1,0 +1,23 @@
+{
+"ref_unsur": [
+{
+	"id": "1",
+	"nama": "Pendidikan",
+	"kategori": "Unsur Utama\r"
+}
+, {
+	"id": "2",
+	"nama": "Pembelajaran\/ Bimbingan Dan Tugas Tertentu",
+	"kategori": "Unsur Utama\r"
+}
+, {
+	"id": "3",
+	"nama": "Pengembangan Keprofesian Berkelanjutan",
+	"kategori": "Unsur Utama\r"
+}
+, {
+	"id": "4",
+	"nama": "Penunjang Tugas Guru",
+	"kategori": "Unsur Penunjang"
+}
+]}
