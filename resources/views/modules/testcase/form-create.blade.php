@@ -171,16 +171,27 @@
                                                     </button>
                                                     <button class="ui button " onclick="setConditionStatus('','0')">Fail</button>
                                                     </div>-->
+                                                   
                                                     <div class="inline fields">
                                                         <div class="field">
                                                           <div class="ui radio checkbox">
-                                                            <input type="radio" name="step_condition[{{$i}}]" value="1">
+                                                            <input type="radio" 
+                                                            name="step_condition[{{$i}}]"  
+                                                            value="1"
+                                                            @if(isset($row->step_condition) && $row->step_condition=='1')
+                                                                {{'checked'}}
+                                                            @endif
+                                                            >
                                                             <label>Pass</label>
                                                           </div>
                                                         </div>
                                                         <div class="field">
                                                           <div class="ui radio checkbox">
-                                                            <input type="radio" name="step_condition[{{$i}}]" value="0">
+                                                            <input type="radio" name="step_condition[{{$i}}]" value="0"
+                                                            @if((isset($row->step_condition)) && ($row->step_condition=='0'))
+                                                                {{'checked'}}
+                                                            @endif
+                                                            >
                                                             <label>Fail</label>
                                                           </div>
                                                         </div>

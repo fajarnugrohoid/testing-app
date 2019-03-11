@@ -217,6 +217,7 @@ class TestcaseController extends Controller
                 $btn = '<div class="ui buttons">'. $btn_positive .'</div>';
                 return $btn;
             })
+
             ->addColumn('action', function ($record) {
                 $btn = '';
                 $btn .= $this->makeButton([
@@ -252,6 +253,16 @@ class TestcaseController extends Controller
     public function create($id ='')
     {
         $this->setTitle("Create Test Case");
+        
+        /*for ($i=0;$i<10;$i++){
+            echo 'i:'. $i++ . '<br/>';
+        }
+
+        for ($j=0;$j<10;$j++){
+            echo 'j:'. ++$j . '<br/>';
+        }
+
+        dd(); */
         /*
         $dupak  = Dupak::where('user_id', Auth::user()->id)->whereIn('status', [0,1])->get();
         if(count($dupak)>0){              
