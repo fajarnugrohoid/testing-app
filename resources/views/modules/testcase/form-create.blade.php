@@ -124,86 +124,67 @@
 
                         <div class="fields">
                             <div class="sixteen wide field">
+                                @if (isset($status) && ($status=='edit'))
                                 <table class="ui celled table">
                                     <thead>
                                         <tr>
                                             <th width="10%">Step No</th>
                                             <th>What To Do</th>
                                             <th>Expected Result</th>
-                                            @if(isset($records->step_condition))
-                                                <th>Explanation</th>
-                                            @endif
                                             <th width="20%">Act</th>
                                         </tr>
                                     </thead>
+                                    
                                     <tbody id="step_tbody">
-                                        @if(isset($records->step_condition))
-                                        @php 
-                                        $i=0
-                                        @endphp
+                                        @if(isset($records->step_condition) && count($records->step_condition)>0)
+                                            @php 
+                                                $i=0
+                                            @endphp
                                             @foreach($records->step_condition as $row)
-                                            <tr>
-                                                <td>
-                                                    <input type='hidden' name='step_condition_id[]' value="{{$row->id}}" />
-                                                    <input type='text' name='step_no[]' value="{{$row->step_no}}">
-                                                </td>
-                                                <td>
-                                                    <input type='text' name='what_to_do[]' value="{{$row->what_to_do}}">
-                                                </td>
-                                                <td>
-                                                    <input type='text' name='expected_result[]' value="{{$row->expected_result}}">
-                                                </td>
-                                                <td>
-                                                    <div class="inline fields">
-                                                        <div class="field">
-                                                            <textarea class="explanation" name="explanation[]">{{$row->explanation}}</textarea>
-                                                        </div>
-                                                    </div>
-                                                </td>
-                                                <td>
-
-                                                    <!--<div class="ui buttons">
-                                                    <button 
-                                                        class="ui button " 
-                                                        name="step_condition[{{$i}}]"
-                                                        onclick="setConditionStatus('','1')">
-                                                        Pass
-                                                    </button>
-                                                    <button class="ui button " onclick="setConditionStatus('','0')">Fail</button>
-                                                    </div>-->
+                                                <tr>
+                                                    <td>
+                                                        <input type='hidden' name='step_condition_id[]' value="{{$row->id}}" />
+                                                        <input type='text' name='step_no[]' value="{{$row->step_no}}">
+                                                    </td>
+                                                    <td>
+                                                        <input type='text' name='what_to_do[]' value="{{$row->what_to_do}}">
+                                                    </td>
+                                                    <td>
+                                                        <input type='text' name='expected_result[]' value="{{$row->expected_result}}">
+                                                    </td>
+                                                    
                                                    
-                                                    <div class="inline fields">
-                                                        <div class="field">
-                                                          <div class="ui radio checkbox">
-                                                            <input type="radio" 
-                                                            name="step_condition[{{$i}}]"  
-                                                            value="1"
-                                                            @if(isset($row->step_condition) && $row->step_condition=='1')
-                                                                {{'checked'}}
-                                                            @endif
-                                                            >
-                                                            <label>Pass</label>
-                                                          </div>
-                                                        </div>
-                                                        <div class="field">
-                                                          <div class="ui radio checkbox">
-                                                            <input type="radio" name="step_condition[{{$i}}]" value="0"
-                                                            @if((isset($row->step_condition)) && ($row->step_condition=='0'))
-                                                                {{'checked'}}
-                                                            @endif
-                                                            >
-                                                            <label>Fail</label>
-                                                          </div>
-                                                        </div>
-                                                    </div>
+                                                    <td>
+                                                        <button type="button" class="ui teal icon button" onclick="pkb_add_row('pkb_c')">
+                                                                <i class="plus icon"></i>
+                                                        </button>
+                                                        <button type="button" class="ui teal icon button" onclick="pkb_delete_row('pkb_c')">
+                                                                <i class="minus icon"></i>
+                                                        </button>
+                                                    </td>
+                                                </tr>
+                                                @php 
+                                                    $i++
+                                                @endphp
+                                            @endforeach
+                                            <tr>
+                                                <td><input type='text' name='step_no[]'></td>
+                                                <td>
+                                                    <input type='text' name='what_to_do[]'>
+                                                </td>
+                                                <td>
+                                                    <input type='text' name='expected_result[]'>
+                                                </td>
+                                                <td>
+                                                    <button type="button" class="ui teal icon button" onclick="pkb_add_row('pkb_c')">
+                                                            <i class="plus icon"></i>
+                                                    </button>
+                                                    <button type="button" class="ui teal icon button" onclick="pkb_delete_row('pkb_c')">
+                                                            <i class="minus icon"></i>
+                                                    </button>
                                                 </td>
                                             </tr>
 
-                                            @php 
-                                                $i++
-                                            @endphp
-
-                                            @endforeach
                                         @else
                                             <tr>
                                                 <td><input type='text' name='step_no[]'></td>
@@ -229,13 +210,82 @@
                                                 </td>
                                             </tr>
                                         @endif
+                                    </tbody>
+                                </table>
+                                @else
+                                <!--process-->
+                                <table class="ui celled table">
+                                    <thead>
+                                        <tr>
+                                            <th width="10%">Step No</th>
+                                            <th>What To Do</th>
+                                            <th>Expected Result</th>
+                                            <th>Explanation</th>
+                                            <th width="20%">Act</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody id="step_tbody">
+                                        @if(isset($records->step_condition) && count($records->step_condition)>0)
+                                            @php
+                                                $i=0
+                                            @endphp
+                                            @foreach($records->step_condition as $row)
+                                            <tr>
+                                                <td>
+                                                    <input type='hidden' name='step_condition_id[]' value="{{$row->id}}" />
+                                                    <input type='text' name='step_no[]' value="{{$row->step_no}}">
+                                                </td>
+                                                <td>
+                                                    <input type='text' name='what_to_do[]' value="{{$row->what_to_do}}">
+                                                </td>
+                                                <td>
+                                                    <input type='text' name='expected_result[]' value="{{$row->expected_result}}">
+                                                </td>
+                                                <td>
+                                                    <div class="inline fields">
+                                                        <div class="field">
+                                                            <textarea class="explanation" name="explanation[]">{{$row->explanation}}</textarea>
+                                                        </div>
+                                                    </div>
+                                                </td>
+                                                <td>
+                                                    <div class="inline fields">
+                                                        <div class="field">
+                                                          <div class="ui radio checkbox">
+                                                            <input type="radio" 
+                                                            name="step_condition[{{$i}}]"  
+                                                            value="1"
+                                                            @if(isset($row->step_condition) && $row->step_condition=='1')
+                                                                {{'checked'}}
+                                                            @endif
+                                                            >
+                                                            <label>Pass</label>
+                                                          </div>
+                                                        </div>
+                                                        <div class="field">
+                                                          <div class="ui radio checkbox">
+                                                            <input type="radio" name="step_condition[{{$i}}]" value="0"
+                                                            @if((isset($row->step_condition)) && ($row->step_condition=='0'))
+                                                                {{'checked'}}
+                                                            @endif
+                                                            >
+                                                            <label>Fail</label>
+                                                          </div>
+                                                        </div>
+                                                    </div>
+                                                </td>
+                                                </tr>
+                                                @php 
+                                                    $i++
+                                                @endphp
+                                            @endforeach
+                                        @endif
 
                                         
                                     </tbody>
-                                    <!--<tbody id="pkb_c_row">
-                                        
-                                    </tbody>-->
                                 </table>
+                                @endif
+
                             </div>
                         </div>
 

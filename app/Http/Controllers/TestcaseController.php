@@ -146,7 +146,8 @@ class TestcaseController extends Controller
 
         // base filter
         //$records->where('id', $id);
-
+        echo 'test';
+        dd();
         $records = Testcases::all()->sortBy("id");
 
         
@@ -156,6 +157,30 @@ class TestcaseController extends Controller
 
         //return $this->render('modules.penilai.form-tolak', ['detail'     => $detail,]);
         return $this->render('modules.testcase.form-create', ['status'=>'update', 'id'=>$id,'records'=>$records]); 
+    }
+
+    public function process($id){
+
+        // dd($date);
+        //$records = Testcases::with('step_condition');
+
+        // base filter
+        //$records->where('id', $id);
+        
+        $records = Testcases::all()->sortBy("id");
+
+        $records = Testcases::with('step_condition')->find($id);
+      
+        return $this->render('modules.testcase.form-create', ['status'=>'process', 'id'=>$id,'records'=>$records]); 
+    }
+
+    public function edit($id){
+
+        $records = Testcases::all()->sortBy("id");
+
+        $records = Testcases::with('step_condition')->find($id);
+
+        return $this->render('modules.testcase.form-create', ['status'=>'edit', 'id'=>$id,'records'=>$records]); 
     }
 
     public function grid(Request $request)
@@ -225,14 +250,14 @@ class TestcaseController extends Controller
                         'class'   => 'green',
                         'tooltip' => 'Edit Test Case',
                         'label'   => 'Edit',
-                        'url'     => url('testcase/' . $record->id),
+                        'url'     => url('testcase/edit/' . $record->id),
                     ]);
                  $btn .= $this->makeButton([
                         'type'    => 'url',
                         'class'   => 'green',
                         'tooltip' => 'Process Test Case',
                         'label'   => 'Proses',
-                        'url'     => url('testcase/' . $record->id),
+                        'url'     => url('testcase/process/' . $record->id),
                     ]);
                 if ($record->execution_status=='1'){
                     $btn .= $this->makeButton([
@@ -253,7 +278,6 @@ class TestcaseController extends Controller
     public function create($id ='')
     {
         $this->setTitle("Create Test Case");
-        
         /*for ($i=0;$i<10;$i++){
             echo 'i:'. $i++ . '<br/>';
         }
@@ -263,6 +287,7 @@ class TestcaseController extends Controller
         }
 
         dd(); */
+
         /*
         $dupak  = Dupak::where('user_id', Auth::user()->id)->whereIn('status', [0,1])->get();
         if(count($dupak)>0){              
@@ -281,16 +306,99 @@ class TestcaseController extends Controller
     {
         //$id = Helper::decrypt($request->id);
         $id = $request->id;
-        //dd($request);
-        // return response([
-        //         'status' => 'success',
-        //         'id' => $id,
-        //         'msg' => $request->message,
-        //         'biodata' => ['nama' => $request],
-        //     ], 200);
+        //dd($request->all());
+        /*return response([
+                'status' => 'success',
+                'id' => $id,
+                'msg' => $request->all(),
+            ], 200); */
         /* transaction db */
-        if (isset($request->status) && ($request->status=='update'))
+        if (isset($request->status) && ($request->status=='edit'))
         {
+
+            \DB::beginTransaction();
+            try {
+                $data = $request->all();
+                $response = array(
+                  'status' => 'success',
+                  'msg' => $data,
+                  'data'=>$request
+                );
+                $testcases  = Testcases::find($id);
+                $testcases->fill([
+                    'project_id'        => $data['project_id'],
+                    'title'             => $data['title'],
+                    'severity'          => $data['severity'],
+                    'version'           => $data['version'],
+                    'type_test'         => $data['type_test'],
+                    'description'       => $data['description'],
+                    'pre_condition'     => $data['pre_condition'],
+                    'execution_status'  => '1',
+                    'created_at'        => Carbon::now()
+                ]);
+                $testcases->save();
+
+                
+                if (isset($data['step_condition_id']) && count($data['step_condition_id'])>0 ){
+                    # update to detail
+                    for ($i=0; $i <count($data['step_no']) ; $i++) {
+                        
+                        //dd();
+                        $step_conditions = null;
+                        if (array_key_exists($i, $data['step_condition_id'])==true){
+                            $val_step_condition = $data['step_condition_id'][$i];
+                            $step_conditions = StepConditions::find($val_step_condition);
+                        }
+                        
+                        if ($step_conditions!=null){
+                            $step_conditions->step_no = $data['step_no'][$i];
+                            $step_conditions->what_to_do = $data['what_to_do'][$i];
+                            $step_conditions->expected_result = $data['expected_result'][$i];
+                            //$step_conditions->explanation = $data['explanation'][$i];
+                            //$step_conditions->step_condition = $data['step_condition'][$i];
+                            $step_conditions->explanation = '';
+                            $step_conditions->step_condition = '0';
+                            $step_conditions->save();
+                        }else{
+                            $testcases->step_condition()->create([
+                                'step_no'           => $data['step_no'][$i],
+                                'what_to_do'        => $data['what_to_do'][$i],
+                                'expected_result'   => $data['expected_result'][$i],
+                                'explanation'       => '',
+                                'step_condition'    => '0'
+                            ]);
+                        }
+                        
+                    }
+                }else{
+                    # insert to detail
+                    for ($i=0; $i <count($data['step_no']) ; $i++) {
+                        $testcases->step_condition()->create([
+                            'step_no'           => $data['step_no'][$i],
+                            'what_to_do'        => $data['what_to_do'][$i],
+                            'expected_result'   => $data['expected_result'][$i],
+                            'explanation'       => '',
+                            'step_condition'    => '0'
+                        ]);
+                    }
+                }
+
+                \DB::commit();
+                return response([
+                    'status'       => 'success',
+                    'data'         => $response,
+                    'count_step_no'        => count($data['step_no']),
+                    'count_step_condition_id'        => count($data['step_condition_id']),
+                ], 200);
+
+            } catch (\Exception $e) {
+                \DB::rollback();
+
+                return response([
+                    'errors'       => ['Beban server sedang tinggi, silakan ulangi lagi.', $e->getMessage()],
+                ], 422);
+            }
+        }else if (isset($request->status) && ($request->status=='process')){
             \DB::beginTransaction();
             try {
                 $data = $request->all();
@@ -314,23 +422,39 @@ class TestcaseController extends Controller
                     'created_at'    => Carbon::now()
                 ]);
                 $testcases->save();
-                # update to detail
-                for ($i=0; $i <count($data['step_no']) ; $i++) {
-                    /*$testcases->step_condition()->update([
-                        'step_no'           => $data['step_no'][$i],
-                        'what_to_do'        => $data['what_to_do'][$i],
-                        'expected_result'   => $data['expected_result'][$i],
-                        'explanation'       => $data['explanation'][$i],
-                        'step_condition'    => $data['step_condition'][$i]
-                    ]);*/
-                    $step_conditions = StepConditions::find($data['step_condition_id'][$i]);
-                    $step_conditions->step_no = $data['step_no'][$i];
-                    $step_conditions->what_to_do = $data['what_to_do'][$i];
-                    $step_conditions->expected_result = $data['expected_result'][$i];
-                    $step_conditions->explanation = $data['explanation'][$i];
-                    $step_conditions->step_condition = $data['step_condition'][$i];
-                    // $testcases->step_condition()->save($step_conditions);
-                    $step_conditions->save();
+
+               
+                if (isset($data['step_condition_id']) && count($data['step_condition_id'])>0 ){
+                    # update to detail
+                    for ($i=0; $i <count($data['step_no']) ; $i++) {
+                        /*$testcases->step_condition()->update([
+                            'step_no'           => $data['step_no'][$i],
+                            'what_to_do'        => $data['what_to_do'][$i],
+                            'expected_result'   => $data['expected_result'][$i],
+                            'explanation'       => $data['explanation'][$i],
+                            'step_condition'    => $data['step_condition'][$i]
+                        ]);*/
+                        $step_conditions = StepConditions::find($data['step_condition_id'][$i]);
+
+                        $step_conditions->step_no = $data['step_no'][$i];
+                        $step_conditions->what_to_do = $data['what_to_do'][$i];
+                        $step_conditions->expected_result = $data['expected_result'][$i];
+                        $step_conditions->explanation = $data['explanation'][$i];
+                        $step_conditions->step_condition = $data['step_condition'][$i];
+                        // $testcases->step_condition()->save($step_conditions);
+                        $step_conditions->save();
+                    }
+                }else{
+                    # insert to detail
+                    for ($i=0; $i <count($data['step_no']) ; $i++) {
+                        $testcases->step_condition()->create([
+                            'step_no'           => $data['step_no'][$i],
+                            'what_to_do'        => $data['what_to_do'][$i],
+                            'expected_result'   => $data['expected_result'][$i],
+                            'explanation'       => '',
+                            'step_condition'    => '0'
+                        ]);
+                    }
                 }
 
                 \DB::commit();
@@ -347,7 +471,8 @@ class TestcaseController extends Controller
                     'errors'       => ['Beban server sedang tinggi, silakan ulangi lagi.', $e->getMessage()],
                 ], 422);
             }
-        }else{
+        }
+        else{
             \DB::beginTransaction();
             try {
                 $data = $request->all();
@@ -401,6 +526,7 @@ class TestcaseController extends Controller
      public function update(Request $request)
     {
         $this->setTitle("Test Case");
+
         \DB::beginTransaction();
         try {
             $id = $request->id;

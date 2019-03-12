@@ -22,7 +22,6 @@ Route::get('register', 'Auth\RegisterController@showRegistrationForm');
 Route::group(['middleware' => 'auth'], function(){
 	Route::resource('/', 'HomeController');
 	
-
 	// Guru
 	Route::get('guru/grid', 'GuruController@grid');
 	Route::resource('guru', 'GuruController');
@@ -38,7 +37,6 @@ Route::group(['middleware' => 'auth'], function(){
 	Route::post('sekretariat/set-penilai', 'SekretariatController@setPenilai');
 	Route::post('sekretariat/grid', 'SekretariatController@grid');
 	Route::resource('sekretariat', 'SekretariatController');
-
 
 	// Penilai
 	Route::get('penilai/nilai/{id}', 'PenilaiController@formNilai');
@@ -60,7 +58,10 @@ Route::group(['middleware' => 'auth'], function(){
 	Route::resource('testcase', 'TestcaseController');
 	Route::get('testcase/print/{id}', 'TestcaseController@print');
 	Route::post('testcase/store', 'TestcaseController@store');
+	//Route::post('testcase/update', 'TestcaseController@process');
 	Route::post('testcase/update', 'TestcaseController@update');
+	Route::get('testcase/edit/{id}', 'TestcaseController@edit');
+	Route::get('testcase/process/{id}', 'TestcaseController@process');
 	Route::get('testcase/{id}', 'TestcaseController@show');
 	Route::get('testcase/view/{id}', 'TestcaseController@view');
 
