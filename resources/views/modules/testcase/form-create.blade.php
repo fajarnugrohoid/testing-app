@@ -212,7 +212,7 @@
                                         @endif
                                     </tbody>
                                 </table>
-                                @else
+                                @elseif(isset($status) && ($status=='process'))
                                 <!--process-->
                                 <table class="ui celled table">
                                     <thead>
@@ -280,8 +280,36 @@
                                                 @endphp
                                             @endforeach
                                         @endif
-
-                                        
+                                    </tbody>
+                                </table>
+                                @else
+                                <table class="ui celled table">
+                                    <thead>
+                                        <tr>
+                                            <th width="10%">Step No</th>
+                                            <th>What To Do</th>
+                                            <th>Expected Result</th>
+                                            <th width="20%">Act</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody id="step_tbody">
+                                        <tr>
+                                            <td><input type='text' name='step_no[]'></td>
+                                            <td>
+                                                <input type='text' name='what_to_do[]'>
+                                            </td>
+                                            <td>
+                                                <input type='text' name='expected_result[]'>
+                                            </td>
+                                            <td>
+                                                <button type="button" class="ui teal icon button" onclick="pkb_add_row('pkb_c')">
+                                                        <i class="plus icon"></i>
+                                                    </button>
+                                                    <button type="button" class="ui teal icon button" onclick="pkb_delete_row('pkb_c')">
+                                                        <i class="minus icon"></i>
+                                                    </button>
+                                            </td>
+                                        </tr>
                                     </tbody>
                                 </table>
                                 @endif
